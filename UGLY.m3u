@@ -1,0 +1,469 @@
+#EXTM3U
+#EXTINF:130, MNCTV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF:120, GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+#EXTINF:130, INEWS
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+#EXTINF:120, RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#EXTINF:60, CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:39, MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:40, MY CINEMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:60, CINEMA EUROPE
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:40, MY FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:60, FIGHT SPORTS
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:0,HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:0,AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+#EXTINF:0,PARAMOUNT NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#EXTINF:0,ROCK ACTION
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+#EXTINF:0,ROCK ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
+#EXTINF:0,HITSMOVIE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+#EXTINF:0,HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
+#EXTINF:0,KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
+#EXTINF:0,TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
+#EXTINF:0,TVNMOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
+#EXTINF:0,KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
+#EXTINF:0,ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+#EXTINF:0,ZEEBIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
+#EXTINF:0,SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+#EXTINF:0,SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+#EXTINF:0,DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+#EXTINF:0,HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+#EXTINF:0,TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+#EXTINF:0,AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+#EXTINF:0,FOOD NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
+#EXTINF:0,ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+#EXTINF:0,BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+#EXTINF:0,NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+#EXTINF:0,NICKJR.
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+#EXTINF:0,GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
+#EXTINF:0, ID: beIN Sports 1
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165105
+#EXTINF:0, ID: beIN Sports 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298506
+#EXTINF:0, ID: Boomerang
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165109
+#EXTINF:0, ID: Cartoon Network
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157593
+#EXTINF:0, ID: CBeebies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/247448
+#EXTINF:0, ID: CCM
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165103
+#EXTINF:0, ID: Celestial Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165065
+#EXTINF:0, ID: Champion TV 5
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298491
+#EXTINF:0, ID: Champion TV 6
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298492
+#EXTINF:0, ID: CinemaWorld
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165082
+#EXTINF:0, ID: Cinemax
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197964
+#EXTINF:0, ID: Citra Bioskop
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298519
+#EXTINF:0, ID: Citra Dangdut
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/247446
+#EXTINF:0, ID: Citra Drama
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264748
+#EXTINF:0, ID: Citra Entertainment
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298520
+#EXTINF:0, ID: Disney Junior
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162511
+#EXTINF:0, ID: Disney XD
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/276564
+#EXTINF:0, ID: DreamWorks
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157610
+#EXTINF:0, ID: Dunia Anak
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264753
+#EXTINF:0, ID: Dunia Lain
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298524
+#EXTINF:0, ID: Ent
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157581
+#EXTINF:0, ID: Etv Bioskop
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298526
+#EXTINF:0, ID: Etv Bioskop 02
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298527
+#EXTINF:0, ID: Etv Bioskop 03
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298528
+#EXTINF:0, ID: Etv Bioskop 04
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298529
+#EXTINF:0, ID: FMN
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165057
+#EXTINF:0, ID: Galaxy
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264773
+#EXTINF:0, ID: Galaxy Premium
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264774
+#EXTINF:0, ID: GEM
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298533
+#EXTINF:0, ID: GTV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157578
+#EXTINF:0, ID: HBO
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197972
+#EXTINF:0, ID: HBO Family
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197055
+#EXTINF:0, ID: HBO Hits
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/196480
+#EXTINF:0, ID: HBO Signature
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/221948
+#EXTINF:0, ID: HGTV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298535
+#EXTINF:0, ID: Hip Hip Horee!
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298536
+#EXTINF:0, ID: History
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162519
+#EXTINF:0, ID: Hits
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165085
+#EXTINF:0, ID: Hits Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/221947
+#EXTINF:0, ID: Horee!
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264750
+#EXTINF:0, ID: Ie
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157582
+#EXTINF:0, ID: Indi Kids
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298539
+#EXTINF:0, ID: INews
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157579
+#EXTINF:0, ID: Infotainment
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298541
+#EXTINF:0, ID: K+
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197969
+#EXTINF:0, ID: KBS World
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197053
+#EXTINF:0, ID: Kids TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162505
+#EXTINF:0, ID: KIX
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165068
+#EXTINF:0, ID: MNC News
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165058
+#EXTINF:0, ID: MNC Sports
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157589
+#EXTINF:0, ID: MNC Sports 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
+#EXTINF:0, ID: MNC Sports 3
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298549
+#EXTINF:0, ID: MNC TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165054
+#EXTINF:0, ID: Moji
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298550
+#EXTINF:0, ID: Nick Jr
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165107
+#EXTINF:0, ID: nickelodeon
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162510
+#EXTINF:0, ID: OK TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/221956
+#EXTINF:0, ID: Paramount Network
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298564
+#EXTINF:0, ID: RCTI
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157591
+#EXTINF:0, ID: Rock Action
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298490
+#EXTINF:0, ID: Rock Entertaiment
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298565
+#EXTINF:0, ID: SpoTV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298570
+#EXTINF:0, ID: SpoTV 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298571
+#EXTINF:0, ID: Thrill
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157580
+#EXTINF:0, ID: TLC
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165086
+#EXTINF:0, ID: TVN
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197965
+#EXTINF:0, ID: TVN Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157596
+#EXTINF:0, ID: Vision Prime
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197958
+#EXTINF:0, ID: Warner TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157594
+#EXTINF:0, ID: Zee Bioskop
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157584
+#EXTINF:0, ID: Asian Food Network
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298503
+#EXTINF:0, ID: beIN Sports 1
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165105
+#EXTINF:0, ID: beIN Sports 3
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298506
+#EXTINF:0, ID: Boomerang
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165109
+#EXTINF:0, ID: Cartoon Network
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157593
+#EXTINF:0, ID: CBeebies
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/247448
+#EXTINF:0, ID: CCM
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165103
+#EXTINF:0, ID: Celestial Movies
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165065
+#EXTINF:0, ID: Champion TV 5
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298491
+#EXTINF:0, ID: Champion TV 6
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298492
+#EXTINF:0, ID: CinemaWorld
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165082
+#EXTINF:0, ID: Cinemax
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/197964
+#EXTINF:0, ID: Citra Bioskop
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298519
+#EXTINF:0, ID: Citra Dangdut
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/247446
+#EXTINF:0, ID: Citra Drama
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/264748
+#EXTINF:0, ID: Citra Entertainment
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298520
+#EXTINF:0, ID: Disney Junior
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/162511
+#EXTINF:0, ID: Disney XD
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/276564
+#EXTINF:0, ID: DreamWorks
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157610
+#EXTINF:0, ID: Ent
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157581
+#EXTINF:0, ID: Etv Bioskop
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298526
+#EXTINF:0, ID: Etv Bioskop 02
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298527
+#EXTINF:0, ID: Etv Bioskop 03
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298528
+#EXTINF:0, ID: Etv Bioskop 04
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298529
+#EXTINF:0, ID: FMN
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165057
+#EXTINF:0, ID: Galaxy
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/264773
+#EXTINF:0, ID: Galaxy Premium
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/264774
+#EXTINF:0, ID: GEM
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298533
+#EXTINF:0, ID: GTV
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157578
+#EXTINF:0, ID: HBO
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/197972
+#EXTINF:0, ID: HBO Family
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/197055
+#EXTINF:0, ID: HBO Hits
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/196480
+#EXTINF:0, ID: HBO Signature
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/221948
+#EXTINF:0, ID: HGTV
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298535
+#EXTINF:0, ID: Hip Hip Horee!
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298536
+#EXTINF:0, ID: Hits
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165085
+#EXTINF:0, ID: Hits Movies
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/221947
+#EXTINF:0, ID: Horee!
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/264750
+#EXTINF:0, ID: Ie
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157582
+#EXTINF:0, ID: IMC
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/264769
+#EXTINF:0, ID: Indi Kids
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298539
+#EXTINF:0, ID: INews
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157579
+#EXTINF:0, ID: Infotainment
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298541
+#EXTINF:0, ID: K+
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/197969
+#EXTINF:0, ID: KBS World
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/197053
+#EXTINF:0, ID: Kids TV
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/162505
+#EXTINF:0, ID: KIX
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165068
+#EXTINF:0, ID: Lifestyle & Fashion
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157592
+#EXTINF:0, ID: MNC News
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165058
+#EXTINF:0, ID: MNC Sports
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157589
+#EXTINF:0, ID: MNC Sports 2
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298548
+#EXTINF:0, ID: MNC Sports 3
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298549
+#EXTINF:0, ID: MNC TV
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165054
+#EXTINF:0, ID: Moji
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298550
+#EXTINF:0, ID: Nick Jr
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165107
+#EXTINF:0, ID: nickelodeon
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/162510
+#EXTINF:0, ID: OK TV
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/221956
+#EXTINF:0, ID: ONE
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298563
+#EXTINF:0, ID: Paramount Network
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298564
+#EXTINF:0, ID: RCTI
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157591
+#EXTINF:0, ID: Rock Action
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298490
+#EXTINF:0, ID: Rock Entertaiment
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298565
+#EXTINF:0, ID: SpoTV
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298570
+#EXTINF:0, ID: SpoTV 2
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/298571
+#EXTINF:0, ID: Thrill
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157580
+#EXTINF:0, ID: TLC
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165086
+#EXTINF:0, ID: TVN
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/197965
+#EXTINF:0, ID: TVN Movies
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157596
+#EXTINF:0, ID: Vision Prime
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/197958
+#EXTINF:0, ID: Warner TV
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157594
+#EXTINF:0, ID: Zee Bioskop
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157584
+#EXTINF:0, GLOBAL TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683121&extension=ts&play_token=6vwRi81FJZ
+#EXTINF:0, RCTI
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683099&extension=ts&play_token=dYLcbLasuk
+#EXTINF:0, MNC TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683098&extension=ts&play_token=qHlQKxEaLV
+#EXTINF:0, MNC NEWS
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683193&extension=ts&play_token=aMUF1JFLhC
+#EXTINF:0, MNC ENTERTAINMENT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683188&extension=ts&play_token=DLtw5cp5NH
+#EXTINF:0, OK TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683105&extension=ts&play_token=bFUlqkTz0V
+#EXTINF:0, VISION PRIME
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683124&extension=ts&play_token=WRlRbItZ6k
+#EXTINF:0, US: Gravitas Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281943
+#EXTINF:0, US: Hallmark Movies & Mysteries
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/3388
+#EXTINF:0, US: HBO
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2336
+#EXTINF:0, US: HBO 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5844
+#EXTINF:0, US: HBO Comedy
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2335
+#EXTINF:0, US: HBO Family
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/760
+#EXTINF:0, US: HBO Signature
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6305
+#EXTINF:0, US: HBO Zone
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6328
+#EXTINF:0, US: HDNet Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/200162
+#EXTINF:0, US: Lifetime Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/12992
+#EXTINF:0, US: MovieMax
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/15110
+#EXTINF:0, US: MoviePlex
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/38477
+#EXTINF:0, US: Sony Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5831
+#EXTINF:0, US: Starz Cinema
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/767
+#EXTINF:0, US: TCM Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/193459
+#EXTINF:0, ID: Celestial Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165065
+#EXTINF:0, ID: CinemaWorld
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165082
+#EXTINF:0, ID: Cinemax
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197964
+#EXTINF:0, ID: HBO
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197972
+#EXTINF:0, ID: HBO Family
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/197055
+#EXTINF:0, ID: HBO Hits
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/196480
+#EXTINF:0, ID: HBO Signature
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/221948
+#EXTINF:0, ID: Hits Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/221947
+#EXTINF:0, ID: My Cinema
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298553
+#EXTINF:0, ID: My Cinema Asia
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298554
+#EXTINF:0, ID: TVN Movies
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157596
+#EXTINF:0, ID: 24/7 Mr Bean Cartoon
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298498
+#EXTINF:0, ID: Boomerang
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165109
+#EXTINF:0, ID: Boomerang EN
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298507
+#EXTINF:0, ID: Cartoon Network
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/157593
+#EXTINF:0, ID: Disney Junior
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162511
+#EXTINF:0, ID: Disney XD
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/276564
+#EXTINF:0, ID: Indi Kids
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298539
+#EXTINF:0, ID: Kids TV
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162505
+#EXTINF:0, ID: Nick Jr
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165107
+#EXTINF:0, ID: Nick Jr EN
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298561
+#EXTINF:0, ID: nickelodeon
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/162510
+#EXTINF:0, US: beIN Sports
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/284530
+#EXTINF:0, US: beIN Sports 1
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2272
+#EXTINF:0, US: beIN Sports 2
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151022
+#EXTINF:0, US: beIN Sports 4
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151024
+#EXTINF:0, US: beIN Sports 5
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151026
+#EXTINF:0, US: beIN Sports 6
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151030
+#EXTINF:0, US: beIN Sports 7
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151028
+#EXTINF:0, US: beIN Sports 8
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151032
+#EXTINF:0, US: beIN Sports n
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/296690
+#EXTINF:0, US: beIN Sports USA
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/296691
+#EXTINF:0, US| beIN_SPORTS
+http://kingtop10.net:7070/clubdeking2/eh4utvgr/182789
+#EXTINF:0, US| Bein Sports 4
+http://kingtop10.net:7070/clubdeking2/eh4utvgr/182790
+#EXTINF:0, US| Bein Sports_6
+http://kingtop10.net:7070/clubdeking2/eh4utvgr/182791
