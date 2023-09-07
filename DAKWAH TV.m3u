@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,RODJA TV MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:45,INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:0,AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:0,BINBAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:0,RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:0,RADIOKITA TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:0,AL FURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:0,MGI TV (Intech)
+https://h1.intechmedia.net/intech/ch25.m3u8
+#EXTINF:0,IZZAH TV 2
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:0,SALAM TV
+https://h1.intechmedia.net/intech/ch12.m3u8
