@@ -1,0 +1,132 @@
+#EXTM3U
+#EXTINF:80,IZZAH TV
+#EXTVLCOPT:network-caching=1000
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:0,WARNER ID
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/157594.ts
+#EXTINF:0,HBO ID
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
+#EXTINF:0,HBO SIGNATURE ID HD
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
+#EXTINF:0,HBO CINEMAX ID HD
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
+#EXTINF:60,HITS
+#EXTVLCOPT:network-caching=1000
+http://rr1.dens.tv/h/h37/index.m3u8
+#EXTINF:60,THRILL (MANUAL SET RES)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:120,ZEE BIOSKOP 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0161_221224_1730
+#EXTINF:0,MNC SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157589.ts
+#EXTINF:0,MNC SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298548.ts
+#EXTINF:0,MNC SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298549.ts
+#EXTINF:60,TENNIS HD
+#EXTVLCOPT:network-caching=1000
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:120,DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+#EXTINF:0,NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+#EXTINF:0,NICKJR.
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+#EXTINF:0,BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+#EXTINF:18,Aniplus
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+#EXTINF:120,ANIMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+#EXTINF:80,MYKIDS 
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:0,HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:60, HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:0, HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+#EXTINF:0,PARAMOUNT NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#EXTINF:0,Galaxy Premium
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350951
+#EXTINF:0,AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+#EXTINF:0, ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:0, ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:0, CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:0, CELESTIAL MOVIES
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:0, CCM
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:0,ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+#EXTINF:0, KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:0, GEM
+http://210.210.155.37/uq2663/h/h19/index.m3u8
+#EXTINF:60, THRILL
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:60, K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:0, TVN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:0, TVN MOVIES
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:0,KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
+#EXTINF:0, ZEE BIOSKOP
+http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+#EXTINF:0,SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
+#EXTINF:0,SPOTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+#EXTINF:0,SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+#EXTINF:0, FIGHT SPORTS
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:0, TVRI SPORT
+http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+#EXTINF:120,MOJI HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+#EXTINF:18,Dunia Sinema
+#EXTVLCOPT:network-caching=1000
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:0,IMC
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350970
+#EXTINF:120,CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8
+#EXTINF:0,CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+#EXTINF:0,CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+#EXTINF:0,CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+#EXTINF:0,CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+#EXTINF:0,HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+#EXTINF:0,TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+#EXTINF:0,AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
+#EXTINF:0,FOOD NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
