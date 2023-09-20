@@ -1,0 +1,348 @@
+#EXTM3U
+#EXTINF:25, TRANS 7
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:100, TRANS TV
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:60, MOJI
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#EXTINF:60,RTV
+#EXTVLCOPT:network-caching=1000
+http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:120, HOREE!
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:120, DreamWorks
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+#EXTINF:130,RCTI
+#EXTVLCOPT:network-caching=1000
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#EXTINF:120,MNCTV
+#EXTVLCOPT:network-caching=1000
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF:120,GTV
+#EXTVLCOPT:network-caching=1000
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+#EXTINF:120,iNews
+#EXTVLCOPT:network-caching=1000
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+#EXTINF:28,FICOM CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+#EXTINF:0,HBO Hits
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/221948
+#EXTINF:120,GEM
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
+#EXTINF:0,CITRA DRAMA
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+#EXTINF:0,CITRA BIOSKOP
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+#EXTINF:0,CITRA ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
+#EXTINF:0, ID: ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350889
+#EXTINF:0, ID: Animax
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350890
+#EXTINF:0, ID: AniPlus
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350891
+#EXTINF:0, ID: Asian Food Network
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350894
+#EXTINF:0, ID: AXN
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350895
+#EXTINF:0, ID: Baby TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350896
+#EXTINF:0, ID: beIN Sports 1
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350900
+#EXTINF:0, ID: beIN Sports 3
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350901
+#EXTINF:0, ID: Besmart
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350905
+#EXTINF:0, ID: Bioskop Indonesia
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350906
+#EXTINF:0, ID: Boomerang
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350908
+#EXTINF:0, ID: Boomerang EN
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350909
+#EXTINF:0, ID: Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350910
+#EXTINF:0, ID: CBeebies
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350911
+#EXTINF:0, ID: CCM
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350912
+#EXTINF:0, ID: Celestial Movies
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350913
+#EXTINF:0, ID: Champion TV 1
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350916
+#EXTINF:0, ID: Champion TV 2
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350917
+#EXTINF:0, ID: Champion TV 3
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350918
+#EXTINF:0, ID: CinemaWorld
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350921
+#EXTINF:0, ID: Cinemax
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350922
+#EXTINF:0, ID: Citra Bioskop
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350923
+#EXTINF:0, ID: Citra Dangdut
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350924
+#EXTINF:0, ID: Citra Drama
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350925
+#EXTINF:0, ID: Citra Entertainment
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350926
+#EXTINF:0, ID: Crime+ Investigation
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350930
+#EXTINF:0, ID: Discovery Asia
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350932
+#EXTINF:0, ID: Discovery World
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350933
+#EXTINF:0, ID: Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350934
+#EXTINF:0, ID: Disney XD
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350935
+#EXTINF:0, ID: DreamWorks
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350936
+#EXTINF:0, ID: Dunia Anak
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350937
+#EXTINF:0, ID: Eat&Go
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350939
+#EXTINF:0, ID: Ent
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350940
+#EXTINF:0, ID: Etv Bioskop
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350941
+#EXTINF:0, ID: Etv Bioskop 02
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350942
+#EXTINF:0, ID: Etv Bioskop 03
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350943
+#EXTINF:0, ID: Etv Bioskop 04
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350944
+#EXTINF:0, ID: Fight Sport
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350946
+#EXTINF:0, ID: FLIK
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350947
+#EXTINF:0, ID: Fox Crime
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350949
+#EXTINF:0, ID: Galaxy
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350950
+#EXTINF:0, ID: Galaxy Premium
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350951
+#EXTINF:0, ID: GEM
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350952
+#EXTINF:0, ID: Golf
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350953
+#EXTINF:0, ID: GTV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350954
+#EXTINF:0, ID: HBO
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350955
+#EXTINF:0, ID: HBO Family
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350956
+#EXTINF:0, ID: HBO Hits
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350957
+#EXTINF:0, ID: HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350958
+#EXTINF:0, ID: HGTV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350959
+#EXTINF:0, ID: Hip Hip Horee!
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350960
+#EXTINF:0, ID: History
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350961
+#EXTINF:0, ID: Hits
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350962
+#EXTINF:0, ID: Hits Movies
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350963
+#EXTINF:0, ID: Horee!
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350964
+#EXTINF:0, ID: IMC
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350970
+#EXTINF:0, ID: Indi Kids
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350971
+#EXTINF:0, ID: Izzah TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350976
+#EXTINF:0, ID: K+
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350980
+#EXTINF:0, ID: KBS World
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350981
+#EXTINF:0, ID: Kids TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350982
+#EXTINF:0, ID: KIX
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350983
+#EXTINF:0, ID: Lifetime
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350987
+#EXTINF:0, ID: Love Nature
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350988
+#EXTINF:0, ID: MNC Sports
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350993
+#EXTINF:0, ID: MNC Sports 2
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350994
+#EXTINF:0, ID: MNC Sports 3
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350995
+#EXTINF:0, ID: MNC TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350996
+#EXTINF:0, ID: Moji
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/350997
+#EXTINF:30,MQTV 
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:0, ID: My Cinema
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351003
+#EXTINF:0, ID: My Cinema Asia
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351004
+#EXTINF:0, ID: My Family
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351005
+#EXTINF:0, ID: My Kidz
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351006
+#EXTINF:0, ID: Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351007
+#EXTINF:0, ID: Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351008
+#EXTINF:0, ID: NBA TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351009
+#EXTINF:0, ID: Net
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351010
+#EXTINF:0, ID: NHK World
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351011
+#EXTINF:0, ID: Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351012
+#EXTINF:0, ID: Nick Jr EN
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351013
+#EXTINF:0, ID: nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351014
+#EXTINF:0, ID: ONE
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351017
+#EXTINF:0, ID: Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351019
+#EXTINF:0, ID: Rajawali TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351021
+#EXTINF:0, ID: RCTI
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351023
+#EXTINF:0, ID: Rock Action
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351025
+#EXTINF:0, ID: Rock Entertaiment
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351026
+#EXTINF:0, ID: Rock Extreme
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351027
+#EXTINF:0, ID: Rodja TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351028
+#EXTINF:0, ID: SCTV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351030
+#EXTINF:0, ID: SEA Today
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351031
+#EXTINF:0, ID: Smithsonian Channel
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351032
+#EXTINF:0, ID: Sony One
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351033
+#EXTINF:0, ID: SpoTV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351034
+#EXTINF:0, ID: SpoTV 2
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/88876776555/87677666654/351035
