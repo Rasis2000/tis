@@ -1,0 +1,138 @@
+#EXTM3U
+#EXTINF:120,ZEE BIOSKOP
+http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
+#EXTINF:0,IMC
+http://xtv.ooo:8080/88876776555/87677666654/350970
+#EXTINF:0,BIOSKOP INDONESIA
+http://xtv.ooo:8080/88876776555/87677666654/350906
+#EXTINF:32,FICOM
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:0,Paramount (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
+#EXTINF:0,Warner TV (A*)
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157550
+#EXTINF:0,HITS Movies (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
+#EXTINF:0,HITS (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hits.m3u8
+#EXTINF:0,Rock Action (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#EXTINF:0,Rock Entertainment (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTINF:0, TVN (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvn.m3u8
+#EXTINF:0, KBS World HD
+#EXTVLCOPT:network-caching=1000
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:0, KIX (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kix.m3u8
+#EXTINF:0, One (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/one.m3u8
+#EXTINF:0,BTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+#EXTINF:0,Citra Entertainment (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
+#EXTINF:0,Citra Drama (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
+#EXTINF:120,Citra Muslim (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
+#EXTINF:0,Citra Bioskop (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
+#EXTINF:0,Flik (K*)
+#EXTVLCOPT:network-caching=1000
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165095
+#EXTINF:0,HGTV Asia (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:0,Food Network (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
+#EXTINF:0,National Geographic Wild (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeowild.m3u8
+#EXTINF:0,Discovery Channel (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+#EXTINF:0,Discovery Asia (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
+#EXTINF:0,Crime + Investigation Asia (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/crimeinvestigation.m3u8
+#EXTINF:0,Da Vinci (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/davinci.m3u8
+#EXTINF:0,Aniplus (*)
+#EXTVLCOPT:network-caching=1000
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
+#EXTINF:0,SPOTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
+#EXTINF:0,SPOTV2 (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
+#EXTINF:60,TENNIS HD
+#EXTVLCOPT:network-caching=1000
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:120, Premier Sports (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/premiersport.m3u8
+#EXTINF:0,Eurosport (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
+#EXTINF:9721,John Wick Chapter 4 (2023)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/6cayjjw87le2mea/dzifp-johnwick4.mp4?dl=1
+#EXTINF:0,The Super Mario Bross Movie (2023)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
+#EXTINF:0,Avatar (2022)
+#EXTVLCOPT:network-caching=1000
+https://ju4qxw.sn.files.1drv.com/y4mf07dCormcLGWYRn_rR8aB-5NNNlF1uohfQI3VcMPanpj6Pjd6dWORLfrhDCp5aCVMZlFQpTHlFa8Yf8PXROTIySSnYUzYMpLvt5HvR92aiOwzBfPAMo7oQJg1y_lmG3MOTsqGFt0DHtJrOEftp4v2wWq5zNxGOY5a9vwpBGPG2WY4pDzpa0wUXyBIUCLo0QrhRSOvgwZYH41W9dWLrJfzA
+#EXTINF:0,Doctor Strange in the Multiverse of Madness [HD] (2022)
+#EXTVLCOPT:network-caching=1000
+https://q4vukw.ch.files.1drv.com/y4mWl314iiKXe7ni1bfSb0p4uQjQ4KDKIPyR0aBM5XCwNDN-Ly0er1WuI7qhO6mnJKZkpJDKGZ1MbUcnYUoyn1lsSS6YzYHJEUowCvX5iN788nIOd9Ok2BkraHkjvpK4MfWKQjc602sSjanvE0WWaXMux5wEb-wjChyL3Z8UkO3V0ZbnYOK4kPLe7yznb0sSfHk_d-AfL3DUyNMldGCXm4XXw
+#EXTINF:0,Top Gun: Maverick (2022)
+#EXTVLCOPT:network-caching=1000
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/Top%20Gun%20Maverick%20(2022)%20HDCAM%20-%20ZMovieZ.mp4
+#EXTINF:0, Peter Rabbit (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495582
+#EXTINF:0,Pinnochio (2022)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/ekv28mz3l1rlv9u/dzifp-pinnochiomov.mp4?dl=1
+#EXTINF:0, Playmobil: The Movie (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495581
+#EXTINF:0, Wreck-It Ralph (2012)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495585
+#EXTINF:0, Ralph Breaks the Internet (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495586
+#EXTINF:0, Spider-Man: Into the Spider-Verse (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495615
+#EXTINF:0, Spies in Disguise (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495601
+#EXTINF:0, Tom And Jerry (2021)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/9to19xl4idjrtvh/Tom-And-Jerry-2021-1614389078-720p.mp4?dl=1
+#EXTINF:0, Woody Woodpecker (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495625
