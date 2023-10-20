@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:77,IZZAH TV
+#EXTVLCOPT:network-caching=1000
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:0,WARNER ID
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/157594.ts
+#EXTINF:0,HBO ID
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
+#EXTINF:0,HBO SIGNATURE ID HD
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
+#EXTINF:0,HBO CINEMAX ID HD
+#EXTVLCOPT:network-caching=1000
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
+#EXTINF:60,HITS
+#EXTVLCOPT:network-caching=1000
+http://rr1.dens.tv/h/h37/index.m3u8
+#EXTINF:60,THRILL (MANUAL SET RES)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:60,TENNIS HD
+#EXTVLCOPT:network-caching=1000
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:80,MYKIDS 
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:39, MY CINEMA
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:40, MY CINEMA ASIA
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:60, CINEMA EUROPE
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:40, MY FAMILY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:60, FIGHT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:0,HOREE!
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:0,PARAMOUNT NETWORK
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#EXTINF:0,ROCK ACTION
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+#EXTINF:0,ROCK ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
+#EXTINF:0,HITSMOVIE
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+#EXTINF:0,HITS
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
+#EXTINF:0,KIX
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
+#EXTINF:0,TVN
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
+#EXTINF:0,TVNMOVIES
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
+#EXTINF:0,KBSWORLD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
+#EXTINF:0,ONE
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+#EXTINF:0,SPOTV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+#EXTINF:0,SPOTV2
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+#EXTINF:0,DREAMWORK
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+#EXTINF:0,CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+#EXTINF:0,NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+#EXTINF:0,BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+#EXTINF:0,FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
+#EXTINF:0, US: Gravitas Movies
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/281943
+#EXTINF:0, US: Hallmark Movies & Mysteries
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/3388
+#EXTINF:0, US: HBO
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2336
+#EXTINF:0, US: HBO 2
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5844
+#EXTINF:0, US: HBO Comedy
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2335
+#EXTINF:0, US: HBO Family
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/760
+#EXTINF:0, US: HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6305
+#EXTINF:0, US: HBO Zone
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/6328
+#EXTINF:0, US: HDNet Movies
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/200162
+#EXTINF:0, US: Lifetime Movies
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/12992
+#EXTINF:0, US: MovieMax
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/15110
+#EXTINF:0, US: MoviePlex
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/38477
+#EXTINF:0, US: Sony Movies
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/5831
+#EXTINF:0, US: Starz Cinema
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/767
+#EXTINF:0, US: TCM Movies
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/193459
+#EXTINF:0, US: beIN Sports
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/284530
+#EXTINF:0, US: beIN Sports 1
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2272
+#EXTINF:0, US: beIN Sports 2
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151022
+#EXTINF:0, US: beIN Sports 4
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151024
+#EXTINF:0, US: beIN Sports 5
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151026
+#EXTINF:0, US: beIN Sports 6
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151030
+#EXTINF:0, US: beIN Sports 7
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151028
+#EXTINF:0, US: beIN Sports 8
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151032
+#EXTINF:0, US: beIN Sports n
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/296690
+#EXTINF:0, US: beIN Sports USA
+#EXTVLCOPT:network-caching=1000
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/296691
+#EXTINF:0, US| beIN_SPORTS
+#EXTVLCOPT:network-caching=1000
+http://kingtop10.net:7070/clubdeking2/eh4utvgr/182789
+#EXTINF:0, US| Bein Sports 4
+#EXTVLCOPT:network-caching=1000
+http://kingtop10.net:7070/clubdeking2/eh4utvgr/182790
+#EXTINF:0, US| Bein Sports_6
+#EXTVLCOPT:network-caching=1000
+http://kingtop10.net:7070/clubdeking2/eh4utvgr/182791
