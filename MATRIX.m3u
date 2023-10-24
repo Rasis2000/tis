@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:120,CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+#EXTINF:0,NICKELODEON
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+#EXTINF:0,BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+#EXTINF:120,DREAMWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+#EXTINF:0,HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:0,PARAMOUNT NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#EXTINF:0,HITS (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hits.m3u8
+#EXTINF:0,HITS Movies (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
+#EXTINF:0,Rock Action (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#EXTINF:0,Rock Entertainment (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTINF:0, KIX (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kix.m3u8
+#EXTINF:0,ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
+#EXTINF:0,GEM
+http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+#EXTINF:60, K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:120,ZEE BIOSKOP
+http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
+#EXTINF:0,HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+#EXTINF:0,TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
+#EXTINF:0,FOOD NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
+#EXTINF:0,DENS FOOD CHANNEL
+http://210.210.155.37/x6bnqe/s/s38/index.m3u8
+#EXTINF:0,BTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+#EXTINF:60,TENNIS HD
+#EXTVLCOPT:network-caching=1000
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:80,IZZAH TV 2
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:50,INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:38,AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:0,RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:50,RADIOKITA TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:35,AL FURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:42,MGI TV (Intech)
+https://h1.intechmedia.net/intech/ch25.m3u8
+#EXTINF:47,SALAM TV
+https://h1.intechmedia.net/intech/ch12.m3u8
+#EXTINF:0,Avatar (2022)
+#EXTVLCOPT:network-caching=1000
+https://ju4qxw.sn.files.1drv.com/y4mf07dCormcLGWYRn_rR8aB-5NNNlF1uohfQI3VcMPanpj6Pjd6dWORLfrhDCp5aCVMZlFQpTHlFa8Yf8PXROTIySSnYUzYMpLvt5HvR92aiOwzBfPAMo7oQJg1y_lmG3MOTsqGFt0DHtJrOEftp4v2wWq5zNxGOY5a9vwpBGPG2WY4pDzpa0wUXyBIUCLo0QrhRSOvgwZYH41W9dWLrJfzA
