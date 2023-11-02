@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:11,MENTARI HD
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a018/index.m3u8
+#EXTINF:64,Indi Kids 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+#EXTINF:45,NADOO KOREAN
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
+#EXTINF:120,Garuda TV
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/garuda.m3u8
+#EXTINF:24,BeritaSatu
+#EXTVLCOPT:network-caching=1000
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?check%20tvg-logo=%22https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png%22%20group-title=%22Lokal%22edby:iptvcat.com
+#EXTINF:11,MOJI HD
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a017/index.m3u8
+#EXTINF:11,INDOSIAR HD
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:76,USEE PRIME
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:40, SONY SPORTS TEN 1
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:40, SONY SPORTS TEN 2
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:40, SONY SPORTS TEN 3
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:40, SONY SPORTS TEN 4 
+#EXTVLCOPT:network-caching=1000
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:40, SONY SPORTS TEN 5 
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:60,Fight Sports
+#EXTVLCOPT:network-caching=1000
+http://rr1.dens.tv/h/h05/02.m3u8?chname=FIGHT_SPORTS_HD
+#EXTINF:25,Bein Sports Xtra
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:25, PFL MMA
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
