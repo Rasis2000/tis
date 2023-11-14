@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:60, ROCK ACTION
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:60, ROCK ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:60, CELESTIAL MOVIES
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:60, KIX
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:60, K+
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:60, TVN
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:60, TVN MOVIES
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:60, FIGHT SPORTS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+#EXTINF:21,Cartoonito México (720p)
+#EXTVLCOPT:network-caching=1000
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
