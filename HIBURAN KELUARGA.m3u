@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0, CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:0, Garuda TV
+http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
+#EXTINF:0, Rock Action
+http://210.210.155.35/dr9445/h/h15/index.m3u8
+#EXTINF:0, Rock Entertainment
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:0, My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:0, My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:0, My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:0, My Cinema Europe
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+#EXTINF:0, WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0, Movie Sphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:0, Sony Ten 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:0, Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:0, Sony Ten 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:0, SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0, Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:5456, A Bug's Life (1998) Dubbing Indonesia
+https://cldup.com/iYJtn0fh10Y.mp4
+#EXTINF:6143, Cars 3 (2017) Subtitle Indonesia
+https://cldup.com/umeprGE6CKg/PBahru.mp4
+#EXTINF:6694, YOWIS BEN 3
+https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:4915, 7-24 (2022)
+https://www.googleapis.com/drive/v3/files/1mx3ywdB-vhW_RozNtULi-_o1AMoFWBWU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:4946, Hantu Budeg (2012)
+https://storage.googleapis.com/b458263421913c0e2b8.appspot.com/dcfd9e1dc974eae60c63c18be6a4c346_1622868784.mp4?sumber=awal_storage
