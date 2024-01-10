@@ -1,0 +1,260 @@
+#EXTM3U
+#EXTINF:0, Rock Action
+http://210.210.155.35/dr9445/h/h15/index.m3u8
+#EXTINF:0, Rock Entertainment
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:60, tvN Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:32,FICOM
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:0, SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0, WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:0, My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:0, My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:0, My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:0, My Cinema Europe
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+#EXTINF:0, Movie Sphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Citra Muslim (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
+#EXTINF:0, Sony Ten 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:0, Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:0, Sony Ten 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:0, Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:5456, A Bug's Life (1998) Dubbing Indonesia
+https://cldup.com/iYJtn0fh10Y.mp4
+#EXTINF:6143, Cars 3 (2017) Subtitle Indonesia
+https://cldup.com/umeprGE6CKg/PBahru.mp4
+#EXTINF:6694, YOWIS BEN 3
+https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:4915, 7-24 (2022)
+https://www.googleapis.com/drive/v3/files/1mx3ywdB-vhW_RozNtULi-_o1AMoFWBWU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:4946, Hantu Budeg (2012)
+https://storage.googleapis.com/b458263421913c0e2b8.appspot.com/dcfd9e1dc974eae60c63c18be6a4c346_1622868784.mp4?sumber=awal_storage
+#EXTINF:0,48 Jam untuk Indah
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1VRR58lkh5UXVARv9daWSJz8-9cu9Gbbc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,After Met You
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/11TsHxCkqRWOkWgY_WC_XlRBRSq2PoFEN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Anoksia
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1UJjz5nyCQ7EiVRFxp3c0LG_eNgqZ2jIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Baby Blues
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1OtvcGMbBXa8q70V7N_5-hwOOPeMIshSt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Backstage
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1neVJzMjF_joMezylg2STuOHTVAaqtMKE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Army Of Thieves (2021)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/4yqbirhonvujsj6/driveid-132162-webdl-1080-terbit21-com-army-of-thieves-2021.mp4?dl=1
+#EXTINF:0,Ghostbusters:Afterlife (2021)
+#EXTVLCOPT:network-caching=1000
+https://1ummeq.bn.files.1drv.com/y4m5xqg2IwdGcXQDFuRxNOnFMdvcFGQlIougYyJiUwrlqu8AsjxQJone-E0LOZ4I7KUKcBd6X-Fi0ewmD1J7JeJcV7R9dkkfVIGS2AkY5RZgCI5lgSWnXWppooQOYySqVNUgOM2rAaaqM7GIsiJUrx3HL6wbivnxCtVWpHxUNUeEsfcfhnVy2dDZdw8lTYhWTQ5GgsXE1YSRlAjxNJ15AD9oQ
+#EXTINF:0,Tokyo Revengers (2021)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/tuvgzlwven20bqo/dzifp-tokyo-revengers.mp4?dl=1
+#EXTINF:0,Yellow Dragon Village (2021)
+#EXTVLCOPT:network-caching=1000
+https://3vllhw.ch.files.1drv.com/y4mbP4pdtTtovHS9r27VS8i0csOgh7_sQnwQws0R-RTDuhxvnlaHHWYY_d8jcGE24dstRf-JhxnLEKjae_O4AanuZA-pll4dJTJm552cXUomk4C4lqKu0p_vr78EWx98f8S-0t0R7JHqSW0nd1T4g7VfO95ldlPfEMaNVf06cbE4XjQaP2Dg1qUtikxGOLexUJ-IFKHVbQ6WoaYfhjDvZ1plA
+#EXTINF:0,365 Days (2020)
+#EXTVLCOPT:network-caching=1000
+https://rc4zvg.db.files.1drv.com/y4mjW5KN3lvouxY8s3QaAB6lVPweSQga_wybVVZTU68Xikk0cP0NEyU-g5oDSLrA8PNECQF-pCaXwoqgfdj3NVTBUjs3KTjFXgGmgpQ4FWJqUtDgvMqqMj5HnvehylMxVUzlkjBJX4Op-7Mmd6aBvI6scfnav4qQs5m3lWoVgzts8aNm1kHmbFUuxcxdLZlMC3Zj5xq6LeT_DkWzcEJ-Pdovw
+#EXTINF:0,3G (2013)
+#EXTVLCOPT:network-caching=1000
+https://m.vidio.com/videos/5203886/common_tokenized_playlist.m3u8
+#EXTINF:0,Alive (2020)
+#EXTVLCOPT:network-caching=1000
+https://lv2rbg.ph.files.1drv.com/y4mcwBj9BjHziVvHDvBa6Zq5cVYA6yNNjzuh51muXdUBJljR0sspQ2MTbu8xaYv2Lun-zDzS0AA_7bEkbT1Ki8K3YvDn6vruXvE-qTGjnwSYRoB7HrtDfd28_adh6_BwmINt_Mu0wbk5D-wljhT2NNAuWjDLB-P-GoDgflM2a9gB2L-b4qaBwyqgw63znvzXE-jln9Rx1xanysO2j8NvoB8fg
+#EXTINF:0,AntMan (2015)
+#EXTVLCOPT:network-caching=1000
+https://1w5q4g.bn.files.1drv.com/y4mSJm-GHomyGQWnLK83QUyn6IvfVwyhGyBVH2y-BQ0pPJZdChZOql49L-TTbaFqb6yNobmZt-S95zJmzQW3UvEqa4hGSXk6efEbPWmy1obNGHtzCVLDLtPmCCBdHzxjaPX_L5R1ajp5uwN8hkiC-aeHf0KqZG1BpKhU80Myxy1SokFJQtdEcV7A6MyMp4BZGr44cenc3z-4xaCYgBZ8Y2o4w
+#EXTINF:0,AntMan & The Wasp (2018)
+#EXTVLCOPT:network-caching=1000
+https://1w5jpq.bn.files.1drv.com/y4m2JVRwVPMXxMTzaklJ01_RoQBJYXeJ4KWAb63UNTIPpex2_euIZRTGNRoEot_1NeLWOp6w6BZBcoHGlslyS_1qfxYnXQNIhbOP4T5Ac4xHx5dDhdKeB7qkEsx2CyjsFUR5dw0Y9bIRVnpFwVfCr4KE3x-Fg3qxfFzltty5jyYLIxLT_8vq2xliSlbAqdbgeuR3oi8Ids8Sh3Y5XQ15a384w
+#EXTINF:0,anunaki (2017)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/k5r4eh4uw6s6ymh/driveid-125415-webrip-1080-terbit21-com-anunnaki-2018.mp4?dl=1
+#EXTINF:0,Apocalypto (2016)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/f4592lhkkj5l0kg/dzifp-apoclypto2016.mp4?dl=1
+#EXTINF:0,Avengers End Game (2019)
+#EXTVLCOPT:network-caching=1000
+https://pudfwg.sn.files.1drv.com/y4maU47cy_ilMXGoDyW5r166zR2b5G0c0w_LikE7iqNvOuDqrsZHer29Fs9Hzh4HYXzh3iV31AQcn2dcbtgqcfIwP_iqAoObfVf3J2r8LoPUz3cA9TnBFnmgdTZy8p6euXZ0Eu4oL_OdMVP7_ODknEt9Bn5Exwrzm6Z3w7jV4QOTWqdKoOB5OH-XU8XDDdY0aqW8EFO4luBMXnUvhZUCMzuzg
+#EXTINF:0,Best of Times (2009)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1t8LQvHW-kUen31vk5JBvd5W20GyqUhCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Brutal (2017)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/bnr2dsisvl40yjm/dzifp-brutaljap.mp4?dl=1
+#EXTINF:0,Captain America:The First Avenger (2011)
+#EXTVLCOPT:network-caching=1000
+https://1uonhq.bn.files.1drv.com/y4mwWdl2-ur3pHGdlxOieGMghH9TV4ILGYHkgDptmBJL_VOUONgcA2u96JHSfBBS_maTFhMS8NzMFNmCDAyuYwv-oSP2huSV3ANbcfiHbqEUt8H6qRbwSOwh01DzRZF9ro6vzcB2Cv7JeDC2wqIvbPv__ckftNxn36WlZNVhwj7uYf_CRMX7Vk2cR02Sy0ddUXgt_67iGdTgSmQXmqrWSZLYQ
+#EXTINF:0,Captain America:Civil War (2016)
+#EXTVLCOPT:network-caching=1000
+https://q4uq8q.ch.files.1drv.com/y4m53raq3anFTfojalGdhouI7Nc2W-1OWS_xuF8LuNlE7fVlfEjkRw26KGRUaGhWucaV1830stMZnJ50KToJXxzAqzxN3Amsi99P2wC9GzDFjfsx7QaiK3EAiEJn4FZFv4j8-yQImsJpRsnfOevO4LRKf2SL319WYYLlZqkF3MruJz2udLiusCOfODewIgXd6PM7xtWZmo8tZnbX-yuHv2WIQ
+#EXTINF:0,Countdown (2012)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1RAqWtug7WmtmrfzwvohJG9_n9iXk1CCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Clash Of Titans (2010)
+#EXTVLCOPT:network-caching=1000
+https://ekbddg.sn.files.1drv.com/y4mlHX-RMnJRUsi8PiEinWCHVjux0f28Whd2AE7eo5SsueAMYM5nWTJ9OPikA7ISdr7keA1K7pyk_IICT3JG0YHgQ8Zw3pBqIWnaTZwI6arkbJDgWc3YrIM2m7C7-RzDWgXvS1ML_-gvJexbKj3naIlmgotQSMEUZlo_JmN34IA3B5p5IPSM_AcjqQFRcIm4BLq98L4z0HxOYp8kTqeHd3Xuw
+#EXTINF:0,Close My Eyes (2017)
+#EXTVLCOPT:network-caching=1000
+https://m.vidio.com/videos/7029816/common_tokenized_playlist.m3u8
+#EXTINF:0,Dorm (2006)
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1L6HtY85Xt0lbPm6RqUsX8CoNadMdlQc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Driven Crazy (2019)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/pbgj2ppo7lij53n/dzifp-drivencrazymov.mp4?dl=1
+#EXTINF:0,Escape Room (2017)
+#EXTVLCOPT:network-caching=1000
+https://m.vidio.com/videos/7023720/common_tokenized_playlist.m3u8?digest=-1d7be
+#EXTINF:0,Fifty Shades Grey (2015)
+#EXTVLCOPT:network-caching=1000
+https://phphsa.ch.files.1drv.com/y4mQHOFTRyqqaEtQDoksmT5VcpXdw88BYn-qI-1Pa-E13IGeErXq-BkgdkqmcjduXuZKcjReEoSBBeUe0I4_6AHqPSar6eWIqE-fdC5SGbIFFd3KoL__paM5PjLdNwVHjgcyjauaZq-tkCgMTA4R_zJfpYMZ8DwMj-MKEbUNDQLtwkwlBLkZWLenELSvsnVK2bTtXeRmlZ7iri92zGlYWkLXQ
+#EXTINF:0,Immortals (2011)
+#EXTVLCOPT:network-caching=1000
+https://m.vidio.com/videos/2006203/common_tokenized_playlist.m3u8
+#EXTINF:0,Slaxx (2020)
+#EXTVLCOPT:network-caching=1000
+https://wxisfa.bn.files.1drv.com/y4mvlsu581gstLAFJsQUNnqMMaNdoV0cUnzaFKDd3wrEKcm9EdwFQwWP3Y4UGT-y0nOIE0ITutfazAqsqRnt6qOKhrDqIsxz_Ci0ArfRikIJWT5LQZA2g92bNLCCUEp9TP0phjuFRdE8sJz375ZehTbQcI5vXtpRPk-WfjY3v4SzwGKXLdxWuEgQ7IOQukJpBMYW72zZBP0GM7MXmBwDZ2o2w
+#EXTINF:0,Abominable (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495543
+#EXTINF:0,Peterpan & Wendy (2023)
+#EXTVLCOPT:network-caching=1000
+https://www.dropbox.com/s/mg94zxkcfjoedvq/D21.FUN-Peter-Pan-Wendy-2023-1682681957.mp4?dl=1
+#EXTINF:0, Shazam : Fury of God 2023
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1Xno2T6pZDP9T_w3-q5pBlypMho1K8cMN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Shazam : Fury of God 2023
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1Xno2T6pZDP9T_w3-q5pBlypMho1K8cMN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Avatar the way of water 2023
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1DOPyKO3tNIJWg0jljWmfze79yGlcmHwB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Doraemon: The Sky Utopia 2023
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1c5j45-zjyV3Rq4mAOoUiJasMbxwfuqVq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Top Gun : Maverick 2023
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1L_DGAacQq7b0sl-PmCGHV8QG02nx-mot?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, THE FLASH 2023
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1W9S1jFgVh5uk9FxBD6AnJqTqy8KUryGi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Aladdin (2019) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/5115kfz
+#EXTINF:0, Alita Battle Angel (2019) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/lsx37ja
+#EXTINF:0, Hercules (2014) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/jejt7af
+#EXTINF:0, Hero (2002) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/6cmh3l5
+#EXTINF:0, Kingsman : The Secret Service (2014) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/nr4am0w
+#EXTINF:0, Kingsman : The Golden Circle (2017) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/xealxns
+#EXTINF:0, Kingsman 2022
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/17flvNQhup9fuj-NhBqc9HAqEPL_iXvYL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Scooby-Doo! and the Curse of the 13th Ghost (2019)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/EpPRg-UNMNIdX7NRnaFChCp-9rndDHTvxnfa-YaFgJ0eMiLJdLqLPq3GaYBJl4C0DuUhxTT8EM1gAENkag=m22
+#EXTINF:0, The Addams Family (2019)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/ygTh4dv0Mjm7hzhJjfuqHgLOEEH5C1MYVX9uJqUJuEehvzOb_hmO3tq2cuZnRuKgo3PkevRnsuEBtAEINQ=m22
+#EXTINF:0, Incredibles 2 (2018)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
+#EXTINF:0, Ferdinand (2017)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
+#EXTINF:0, Moana (2016)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
+#EXTINF:0, Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/9Pwu6oU8JOO8xLQvcbZKBv92_Xg30CGIKiZOn_e1zM62QEmMO83oqTYnMZ-qc3ngLmqz64PRK6KjVSbeJQ=m22
+#EXTINF:0, Rio 2 (2014)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPFvirafLJ4FdRMDEI1RRe7Nuozc0WTegZX9EJQ=m22
+#EXTINF:0, Tarzan (2013)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/zufDgL7mogTBnRtvvwRJcdEZR-AkdSbGM24odqJTnp5qp2x_UEirukB_XNB13CjL38w8R2i-ukpD-p62IQ=m22
+#EXTINF:0, Superman I (1978) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/z1kddn4
+#EXTINF:0, Superman II (1980) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/5y8idvr
+#EXTINF:0, Superman III (1983) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/00lsnw3
+#EXTINF:0, Superman IV : The Quest for Peace (1987) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/rzbfbty
+#EXTINF:0, Superman Returns (2006) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/ga6be7j
+#EXTINF:0, Tai-Chi Master (1993) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/xr4fv1w
+#EXTINF:0, Underworld (2003) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/f0g9ouc
+#EXTINF:0, Underworld (2006) Evolution SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/r6tzw2s
+#EXTINF:0, Underworld (2009) Rise of the Lycans SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/bv7sui5
+#EXTINF:0, Underworld (2012) Awakening SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/2whc6ss
+#EXTINF:0, Underworld (2016) Blood Wars SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/qer4lf1
+#EXTINF:0, Monster Hunters (2020) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/4mc4gk0
+#EXTINF:6188, Monster Hunter (2021)
+#EXTVLCOPT:network-caching=1000
+https://lh3.googleusercontent.com/R86JvohvNN9doXsT4KxilUcOr47s2NXrd-C1v2yofCI8IX3UqVBkTVl5_UotB_3n46y5mFL9H9zQrIYG=m22
+#EXTINF:0, Spiderman 1 2002 MD
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1REkPOSU-1fLR1q4_9yS-23aQcUCUPkpw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Spiderman 2 2004 MD
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1Hqh4fOjRAA2b2KQK7HqDNmUceQhyFqYC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Spiderman 3 2007 MD
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1s87x5Afctnrvh_vbl_M3taQ70QX--nGh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0, Spiderman Home Coming 2017 MD
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1kKDp1ws2g9TNJZQWABgalbEixXB-u5bb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:8889,Converting https://www.googleapis.com/drive/v3/files/1W4L7mIv--crB0yIGwf_lG7omDVXw7H89?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1W4L7mIv--crB0yIGwf_lG7omDVXw7H89?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Thor: Love and Thunder
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1xawQmSD5KIo4QU1GvpPR3f2KCfIhQ_sA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
