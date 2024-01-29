@@ -1,0 +1,851 @@
+#EXTM3U
+#EXTINF:0,RCTI HD
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,MNC TV
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,GTV
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TransTV HD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#EXTINF:0,Trans7 HD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#EXTINF:0,Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:0,SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0,Indosiar HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0,NET TV HD
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:0,ANTV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+#EXTINF:0,DAAI TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
+#EXTINF:0,RTV
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+#EXTINF:0,Kompas TV HD
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:0,Metro TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+#EXTINF:0,TVOne
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:0,SindoNews
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683193&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,iNews
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:0,BTV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+#EXTINF:0,Investor Daily TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+#EXTINF:0,TVRI Nasional
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+#EXTINF:0, Magna Channel
+#EXTVLCOPT:network-caching=1000
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTINF:0, Nusantara TV
+#EXTVLCOPT:network-caching=1000
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:0,Indonesiana TV
+#EXTVLCOPT:network-caching=1000
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+#EXTINF:0,Garuda TV
+#EXTVLCOPT:network-caching=1000
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v4a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
+#EXTINF:0,<========================= HBO Group ===================================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C=========================%20HBO%20Group%20===================================%3E
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+https://zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:0,HBO Hits
+#EXTVLCOPT:network-caching=1000
+https://zozotv.xyz:443/rozila969/abc12345/97
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+https://zozotv.xyz:443/rozila969/abc12345/98
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+https://zozotv.xyz:443/rozila969/abc12345/99
+#EXTINF:0,Cinemax
+#EXTVLCOPT:network-caching=1000
+https://zozotv.xyz:443/rozila969/abc12345/107
+#EXTINF:0,<======================== Premium Movies ==========================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C========================%20Premium%20Movies%20==========================%3E
+#EXTINF:0,Paramount Network
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
+#EXTINF:0,Hits
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:0,HitsMovies
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTINF:0,Rock Action
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:0,Galaxy Premium
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:0,Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:0,KIX
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
+#EXTINF:0,Thriil
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+#EXTINF:0,Celestial Movies
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+#EXTINF:0,Celestial Classic
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+#EXTINF:0,Cinema World HD
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+#EXTINF:0,SONY PIX
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0,Sony GEM
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:0,MyCinema
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:0,MyCinema Asia
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+#EXTINF:0,My Family
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:0,Cinemachi HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+#EXTINF:0,Cinemachi Kids HD
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683085&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Cinemachi Action HD
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683090&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Cinemachi Max HD
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683173&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Cinemachi Xtra HD
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683161&extension=ts&play_token=wJfTp9js5
+#EXTINF:0,Indonesia Movie Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#EXTINF:0,Citra Bioskop
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:0,FMN (Telenovela)
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683143&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Zee Bioskop
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+#EXTINF:0,Sony Max
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:0,Sony TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
+#EXTINF:0,ETV BIOSKOP 1
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+#EXTINF:0,ETV BIOSKOP 2
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+#EXTINF:0,ETV BIOSKOP 3
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+#EXTINF:0,ETV BIOSKOP 4
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+#EXTINF:0,<================ Korean Channels ===================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C================%20Korean%20Channels%20===================%3E
+#EXTINF:0,TVN
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+#EXTINF:0,TvN movies HD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
+#EXTINF:0,NaDoo Korean
+#EXTVLCOPT:network-caching=1000
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=lite&chname=NaDooKorean
+#EXTINF:0,ONE
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
+#EXTINF:0,K+
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:0,KBS WORLD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+#EXTINF:0,<================ Knowledge & Documentary ==========================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C================%20Knowledge%20&%20Documentary%20==========================%3E
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
+#EXTINF:0,BBC Earth
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683086&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Love Nature
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
+#EXTINF:0,Discovery Channel 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:0,Discovery Asia
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+#EXTINF:0,Animal Planet 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#EXTINF:0,Global Trekker
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+#EXTINF:0,DMAX TV 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+#EXTINF:0,Crime Investigation
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
+#EXTINF:0,CGTN Documentary
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
+#EXTINF:0,Stingray Nature Escape
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
+#EXTINF:0,<=================== Entertainment & Lifestyle =============================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C===================%20Entertainment%20&%20Lifestyle%20=============================%3E
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
+#EXTINF:0,Rock Entertainment
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:0,HGTV 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#EXTINF:0,Asian Food Network
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:0,Food Network
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#EXTINF:0,Travel & Taste 
+#EXTVLCOPT:network-caching=1000
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#EXTINF:0,Warner TV
+#EXTVLCOPT:network-caching=1000
+http://xtv.ooo:8080/3212571066/abc123/351059
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
+#EXTINF:0,q:100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/451_144.png" group-title="Entertainment & LifeStyle" - BBC Lifestyle
+#EXTVLCOPT:network-caching=1000
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
+#EXTINF:0,Discovery Home & Health
+#EXTVLCOPT:network-caching=1000
+http://xc.tvset.top:80/live/99814980/1Sg3Vf0J/54005.m3u8
+#EXTINF:0,First Lifestyle
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
+#EXTINF:0,CelebritiesTV
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683126&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Vision Prime
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683124&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Citra Entertainment
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:0,Citra Dangdut
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:0,Citra Drama
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+#EXTINF:0,Citra Muslim
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+#EXTINF:0,Entertainment
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683188&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,OK TV
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683105&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,OkZoneTV
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683128&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TV5 Monde
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
+#EXTINF:0,Arirang
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
+#EXTINF:0,Fashion TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+#EXTINF:0,<=============== Kids Channels =====================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C===============%20Kids%20Channels%20=====================%3E
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:0,MyKids
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:0,ZooMoo
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683172&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Horee
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTINF:0,Dreamworks HD
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683171&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Kids TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+#EXTINF:0,Nickelodeon Junior
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+#EXTINF:0,Cbeebies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+#EXTINF:0,Animax
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
+#EXTINF:0,Aniplus
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+#EXTINF:0,<======================= Music ==========================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C=======================%20Music%20==========================%3E
+#EXTINF:0,Music TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTINF:0,MTV Live HD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
+#EXTINF:0,MTV 90's
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
+#EXTINF:0,Stingray Jazz
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
+#EXTINF:0,Stingray Festival 4K
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
+#EXTINF:0,Stingray Now 4K
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
+#EXTINF:0,<============================ Sports ========================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C============================%20Sports%20========================%3E
+#EXTINF:0,Sportstars 1 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:0,Sportstars 2 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:0,Sportstars 3 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:0,Sportstars 4 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:0,Soccer Channel-HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:0,SpoTV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
+#EXTINF:0,SpoTV 2
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:0,Fight Sports
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+#EXTINF:0,Eurosports
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+#EXTINF:0,MOTORVISION
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+#EXTINF:0,Premier Sports
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+#EXTINF:0,<====================== News ========================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C======================%20News%20========================%3E
+#EXTINF:0,Voice Of America
+#EXTVLCOPT:network-caching=1000
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+#EXTINF:0,CNN International
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
+#EXTINF:0,ABC Australia
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
+#EXTINF:0,Al Jazeera
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+#EXTINF:0,Ajazeera Arabic
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8
+#EXTINF:0,IDX
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
+#EXTINF:0,Jakarta Globe News
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+#EXTINF:0,Metro Globe Network
+#EXTVLCOPT:network-caching=1000
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
+#EXTINF:0,CNBC Indonesia
+#EXTVLCOPT:network-caching=1000
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:0,CNN Indonesia
+#EXTVLCOPT:network-caching=1000
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b384000_sleng.m3u8
+#EXTINF:0, tvg-url="" tvg-id=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258" group-title="News" - Berita Satu World
+#EXTVLCOPT:network-caching=1000
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:0,CGTN
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8
+#EXTINF:0,NHK World Japan
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
+#EXTINF:0,NHK World Premium
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:0,FOX News
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683179&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,DW
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
+#EXTINF:0,DW Germany
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch255%29/index.m3u8
+#EXTINF:0,France 24
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
+#EXTINF:0,Euronews
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
+#EXTINF:0,BBC World
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8
+#EXTINF:0,TRT World
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+#EXTINF:0,SEA Today 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#EXTINF:0,CNBC Asia
+#EXTVLCOPT:network-caching=1000
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683186&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CNA
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
+#EXTINF:0,Rusia Today
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8
+#EXTINF:0,TV 5 Monde
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
+#EXTINF:0,CBS News
+#EXTVLCOPT:network-caching=1000
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0,FOX now
+#EXTVLCOPT:network-caching=1000
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:0,FOX now
+#EXTVLCOPT:network-caching=1000
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+#EXTINF:0,DW Deutsch
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:0,Rai Italia
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
+#EXTINF:0,CCTV4
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8
+#EXTINF:0,<=============Christian Channels==================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C=============Christian%20Channels==================%3E
+#EXTINF:0,LIFE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+#EXTINF:0,Reformed21
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8
+#EXTINF:0,EWTN
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8
+#EXTINF:0,Praise
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
+#EXTINF:0,Shine
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3900%29/index.m3u8
+#EXTINF:0,Light
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3922%29/index.m3u8
+#EXTINF:0,Kairos
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8
+#EXTINF:0,<======================== Malaysia ==========================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C========================%20Malaysia%20==========================%3E
+#EXTINF:0,TV 1
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+#EXTINF:0,TV 2
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+#EXTINF:0,TV3
+#EXTVLCOPT:network-caching=1000
+https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+#EXTINF:0,Dunia Sinema HD
+#EXTVLCOPT:network-caching=1000
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:0,TV Okey
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+#EXTINF:0,TV Sarawak
+#EXTVLCOPT:network-caching=1000
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
+#EXTINF:0,TV 6
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+#EXTINF:0,8TV
+#EXTVLCOPT:network-caching=1000
+https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+#EXTINF:0,DidikTV KPM
+#EXTVLCOPT:network-caching=1000
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1731
+#EXTINF:0,Sukan RTM
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1%7CReferer=https://rtmklik.rtm.gov.my
+#EXTINF:0,Berita RTM
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+#EXTINF:0,Astro Awani
+#EXTVLCOPT:network-caching=1000
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0,Bernama TV
+#EXTVLCOPT:network-caching=1000
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571307&extension=ts&play_token=GVZS088tcf
+#EXTINF:0,Drama Hebat 
+#EXTVLCOPT:network-caching=1000
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+#EXTINF:0,Filem Mantap 
+#EXTVLCOPT:network-caching=1000
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+#EXTINF:0,Lawak Sentral 
+#EXTVLCOPT:network-caching=1000
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+#EXTINF:0,Drama HotPot 
+#EXTVLCOPT:network-caching=1000
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+#EXTINF:0,<============================== Brunei ======================================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C==============================%20Brunei%20======================================%3E
+#EXTINF:0,RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+#EXTINF:0,RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:0,RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:0,<=============================== Mediacorp Singapore ========================================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C===============================%20Mediacorp%20Singapore%20========================================%3E
+#EXTINF:0,Channel 5
+#EXTVLCOPT:network-caching=1000
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0,Channel 8 / 8 #EXTVLCOPT:network-caching=1000
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0,Channel U / U #EXTVLCOPT:network-caching=1000
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0,CNA
+#EXTVLCOPT:network-caching=1000
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0,Suria
+#EXTVLCOPT:network-caching=1000
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0,Vasantham
+#EXTVLCOPT:network-caching=1000
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#EXTINF:0,<================================== China =========================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C==================================%20China%20=========================%3E
+#EXTINF:0,TVB Asia
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
+#EXTINF:0,JiangsuTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+#EXTINF:0,HunanTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+#EXTINF:0,Shanghai Dragon TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+#EXTINF:0,XingkongTV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
+#EXTINF:0,Anhui TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+#EXTINF:0,<=======================Local Channels===============>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C=======================Local%20Channels===============%3E
+#EXTINF:0,TV Desa
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
+#EXTINF:0,Kilisuci TV Kediri
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:0,Surabaya TV
+#EXTVLCOPT:network-caching=1000
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:0,Madu TV
+#EXTVLCOPT:network-caching=1000
+https://v6.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:0,JITV Jogja
+#EXTVLCOPT:network-caching=1000
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:0,Jawapos TV
+#EXTVLCOPT:network-caching=1000
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+#EXTINF:0,Kawanua TV
+#EXTVLCOPT:network-caching=1000
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+#EXTINF:0,Bali TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+#EXTINF:0,JAK TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8
+#EXTINF:0,JTV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
+#EXTINF:0,Dhoho TV- Kediri
+#EXTVLCOPT:network-caching=1000
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bandung TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://alpukat-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#EXTINF:0,TATV Solo
+#EXTVLCOPT:network-caching=1000
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:0,TV Tabalong
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:0,<======================= Internet Radio ===============================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C=======================%20Internet%20Radio%20===============================%3E
+#EXTINF:0,Suara Surabaya FM
+#EXTVLCOPT:network-caching=1000
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:0,iRadio
+#EXTVLCOPT:network-caching=1000
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:0,Nagaswara FM
+#EXTVLCOPT:network-caching=1000
+https://live.nagaswarafm.com:9900/stream
+#EXTINF:0,OZ Radio FM
+#EXTVLCOPT:network-caching=1000
+http://45.64.97.211:1031/;stream.nsv
+#EXTINF:0,KISI FM Bogor
+#EXTVLCOPT:network-caching=1000
+http://live.serverstreaming.net:9340/kisifm
+#EXTINF:0,Prambors
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+#EXTINF:0,Hard Rock FM Bandung
+#EXTVLCOPT:network-caching=1000
+http://stream.radiojar.com/fnex9bkswk8uv
+#EXTINF:0,Hard Rock FM Surabaya
+#EXTVLCOPT:network-caching=1000
+http://stream.radiojar.com/yg8ne2v80k8uv
+#EXTINF:0,Hard Rock FM Bali
+#EXTVLCOPT:network-caching=1000
+http://stream.radiojar.com/9k28wsbu5k8uv
+#EXTINF:0,KISI FM Bogor
+#EXTVLCOPT:network-caching=1000
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#EXTINF:0,<====================================CUBMU =====================================>
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Bluestraveller13/Kitkat/main/%3C====================================CUBMU%20=====================================%3E
+#EXTINF:0,Astro SuperSports
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/47
+#EXTINF:0,Astro SuperSports 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/48
+#EXTINF:0,Astro SuperSports 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/49
+#EXTINF:0,Astro SuperSports 4
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/50
+#EXTINF:0,Optus Sport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/52
+#EXTINF:0,Supersport Football
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/56
+#EXTINF:0,Supersport Motorsport
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/58
+#EXTINF:0,Supersport Tennis
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/59
+#EXTINF:0,Supersport Action
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/60
+#EXTINF:0,Supersport Golf
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/61
+#EXTINF:0,Supersport Cricket
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/62
+#EXTINF:0,Supersport Rugby
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/64
+#EXTINF:0,TNT Sport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/80
+#EXTINF:0,TNT Sport 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/82
+#EXTINF:0,TNT Sport 4
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/83
+#EXTINF:0,National Geographic
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/86
+#EXTINF:0,National Geographic Wild
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/87
+#EXTINF:0,Hub Premiere 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/149
+#EXTINF:0,Hub Premiere 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/150
+#EXTINF:0,Hub Premiere 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/151
+#EXTINF:0,Hub Premiere 4
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/152
+#EXTINF:0,EuroSport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/154
+#EXTINF:0,EuroSport 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/155
+#EXTINF:0,DAZN Eleven 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/163
+#EXTINF:0,DAZN Eleven 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/164
+#EXTINF:0,Eleven Sports 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/165
+#EXTINF:0,Eleven Sports 4
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/166
+#EXTINF:0,Eleven Sports 5
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/167
