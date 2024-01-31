@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:40, SONY SPORTS TEN 1
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:0, SONY SPORTS TEN 2
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:0, SONY SPORTS TEN 3
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:0, SONY SPORTS TEN 4 
+#EXTVLCOPT:network-caching=1000
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:0, SONY SPORTS TEN 5 
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
