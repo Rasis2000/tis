@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:60,TENNIS HD
+#EXTVLCOPT:network-caching=1000
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0, BEIN SPORTS 4 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59066&extension=ts
+#EXTINF:0, BEIN SPORTS 5 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59067&extension=ts
+#EXTINF:0, BEIN SPORTS 6 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59068&extension=ts
+#EXTINF:0, BEIN SPORTS 7 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59069&extension=ts
+#EXTINF:0, BEIN SPORTS 8 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59070&extension=ts
+#EXTINF:0, BEIN SPORTS 9 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59071&extension=ts
+#EXTINF:0, BEIN SPORTS 10 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59065&extension=ts
