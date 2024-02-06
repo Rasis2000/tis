@@ -1,0 +1,346 @@
+#EXTM3U
+#EXTINF:0,Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:0,Warner TV
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/24
+#EXTINF:0,SONY PIX
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0,Sony GEM
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:0,Sony Max
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:0,Sony TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
+#EXTINF:0,Flik
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/22
+#EXTINF:0,Bioskop Indonesia
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/23
+#EXTINF:0,Citra Bioskop
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:0,ETV BIOSKOP 1
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+#EXTINF:0,ETV BIOSKOP 2
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+#EXTINF:0,ETV BIOSKOP 3
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+#EXTINF:0,ETV BIOSKOP 4
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+#EXTINF:0,K+
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/session/193aa22c-25f6-11ed-8260-83b5bb6e22c3/uq2663/h/h08/01.m3u8
+#EXTINF:0,KBS WORLD
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+#EXTINF:0,HGTV 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
+#EXTINF:0,Discovery Channel 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+#EXTINF:0,Discovery Asia
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
+#EXTINF:0,Animal Planet 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+#EXTINF:0,National Geographic Channel
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/86
+#EXTINF:0,National Geographic Wild
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/87
+#EXTINF:0,DMAX TV 
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
+#EXTINF:0,Asian Food Network
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:0,Food Network
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+#EXTINF:0,Citra Entertainment
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:0,Citra Dangdut
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:0,Citra Drama
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+#EXTINF:0,Fashion TV
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:0,Horee
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
+#EXTINF:0,Mentari TV
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/25
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+#EXTINF:0,Nickelodeon Junior
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+#EXTINF:0,Aniplus
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/26
+#EXTINF:0,Eurosports
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+#EXTINF:0,Dunia Sinema HD
+#EXTVLCOPT:network-caching=1000
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:0,Sukan RTM
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1%7CReferer=https://rtmklik.rtm.gov.my
+#EXTINF:0, group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png" - Travel&Taste 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
+#EXTINF:0, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png" - Drama Hotpot
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+#EXTINF:0, group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" - Filem Mantap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+#EXTINF:0, group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png" - Lawak Sentral
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+#EXTINF:0, group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png" - Drama Hebat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+#EXTINF:0,BeinSport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/75
+#EXTINF:0,BeinSport 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/76
+#EXTINF:0,BeinSport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/147
+#EXTINF:0,BeinSport 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/148
+#EXTINF:0,Astro Super Sport
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/47
+#EXTINF:0,Astro Super Sport 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/48
+#EXTINF:0,Astro Super Sport 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/49
+#EXTINF:0,Astro Super Sport 4
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/50
+#EXTINF:0,Optus Sport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/52
+#EXTINF:0,Optus Sport 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/53
+#EXTINF:0,Optus Sport 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/54
+#EXTINF:0,SuperSport FootBall
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/56
+#EXTINF:0,SuperSport Laliga
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/57
+#EXTINF:0,SuperSport Motorsport
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/58
+#EXTINF:0,SuperSport Tennis
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/59
+#EXTINF:0,SuperSport Action
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/60
+#EXTINF:0,TNT Sports 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/80
+#EXTINF:0,TNT Sports 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/81
+#EXTINF:0,TNT Sports 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/82
+#EXTINF:0,TNT Sports 4
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/82
+#EXTINF:0,SkySport Premiere League
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/128
+#EXTINF:0,SkySport Main Event
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/129
+#EXTINF:0,SkySport F1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/130
+#EXTINF:0,SkySport Arena
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/162
+#EXTINF:0,SkySport Golf
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/132
+#EXTINF:0,Hub Premiere 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/149
+#EXTINF:0,Hub Premiere 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/150
+#EXTINF:0,Hub Premiere 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/152
+#EXTINF:0,FOX Sport 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/153
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/154
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/155
+#EXTINF:0,DAZN Eleven Sport 1
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/163
+#EXTINF:0,DAZN Eleven Sport 2
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/164
+#EXTINF:0,DAZN Eleven Sport 3
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/165
+#EXTINF:0,DAZN Eleven Sport 4
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/166
+#EXTINF:0,DAZN Eleven Sport 5
+#EXTVLCOPT:network-caching=1000
+http://103.113.116.150:25461/mtm1/12345/167
+#EXTINF:0,Cooking Channel
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12770
+#EXTINF:0,Discovery Family
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22621
+#EXTINF:0,Discovery Life
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22620
+#EXTINF:0,Science
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22642
+#EXTINF:0,E!
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12761
+#EXTINF:0,MGM + Hits
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12759
+#EXTINF:0,Food Network
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12758
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12752
+#EXTINF:0,FYI HD
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12748
+#EXTINF:0,Grit TV
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12746
+#EXTINF:0,Hallmark HD
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12745
+#EXTINF:0,Hallmark Drama
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26496
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12737
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12738
+#EXTINF:0,Lifetime Movies
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12731
+#EXTINF:0,Lifetime
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12732
+#EXTINF:0,Military History
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25023
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28869
+#EXTINF:0,Outside TV
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28870
+#EXTINF:0,Ovation TV
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28871
+#EXTINF:0,Own TV
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12716
+#EXTINF:0,OXIGEN TV
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12715
+#EXTINF:0,Paramount Network
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12714
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12695
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12693
+#EXTINF:0,TV ONE
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12690
+#EXTINF:0,USA NETWORK HD
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12689
+#EXTINF:0,VH1
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12685
+#EXTINF:0,WE TV
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12684
+#EXTINF:0,Sony Movie Channel
+#EXTVLCOPT:network-caching=1000
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26820
