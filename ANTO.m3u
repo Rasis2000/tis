@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0,Paramount (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
+#EXTINF:0,AXN (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
+#EXTINF:0,Rock Action (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#EXTINF:0,Rock Entertainment (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTINF:0,HITS Movies (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hitmovie.m3u8
+#EXTINF:0,HITS (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hits.m3u8
+#EXTINF:0, KIX (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kix.m3u8
+#EXTINF:0, One (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/one.m3u8
+#EXTINF:0,Sony GEM (F*)
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
+#EXTINF:0, TVN (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvn.m3u8
+#EXTINF:0,KBS World (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kbsworld.m3u8
+#EXTINF:0,Citra Bioskop (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
+#EXTINF:120,Citra Muslim (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citramuslim.m3u8
+#EXTINF:0,Citra Drama (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradrama.m3u8
+#EXTINF:0,Citra Entertainment (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/citraentertainment.m3u8
+#EXTINF:0,HGTV Asia (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:0,SPOTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
+#EXTINF:0,SPOTV2 (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
+#EXTINF:0, ANTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/antv.m3u8
+#EXTINF:0, Indosiar (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+#EXTINF:0, SCTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+#EXTINF:0, MOJI (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
+#EXTINF:0,BTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+#EXTINF:0,Asian Food Network (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
+#EXTINF:0,Food Network (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
+#EXTINF:0,National Geographic (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeo.m3u8
+#EXTINF:0,Discovery Channel (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+#EXTINF:0,Discovery Asia (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryasia.m3u8
+#EXTINF:0,National Geographic Wild (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeowild.m3u8
+#EXTINF:0,Animal Planet (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+#EXTINF:0, LOVE NATURE (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/lovenature.m3u8
+#EXTINF:0,CGTN Documentary (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cgtndocumentary.m3u8
+#EXTINF:0,Crime + Investigation Asia (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/crimeinvestigation.m3u8
+#EXTINF:0,Global Trekker (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/globaltrekker.m3u8
+#EXTINF:0,Dmax (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+#EXTINF:0,Da Vinci (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/davinci.m3u8
