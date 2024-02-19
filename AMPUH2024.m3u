@@ -1,0 +1,194 @@
+#EXTM3U
+#EXTINF:0,Mekkah Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+#EXTINF:0,Madinah  Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+#EXTINF:0,INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0,MOJI
+http://103.113.116.150:25461/mtm1/12345/15
+#EXTINF:0,RCTI
+http://103.113.116.150:25461/mtm1/12345/5
+#EXTINF:0,MNCTV
+http://103.113.116.150:25461/mtm1/12345/6
+#EXTINF:0,GTV
+http://103.113.116.150:25461/mtm1/12345/7
+#EXTINF:0,TRANS7
+http://103.113.116.150:25461/mtm1/12345/1
+#EXTINF:0,TRANSTV
+http://103.113.116.150:25461/mtm1/12345/2
+#EXTINF:0,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:0,WARNER BROS TV
+http://103.113.116.150:25461/mtm1/12345/24
+#EXTINF:0,PARAMOUNT NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683174&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HBO
+http://103.113.116.150:25461/mtm1/12345/16
+#EXTINF:0,HBO HITS
+http://103.113.116.150:25461/mtm1/12345/17
+#EXTINF:0,HBO SIGNATURE
+http://103.113.116.150:25461/mtm1/12345/18
+#EXTINF:0,HBO FAMILY
+http://103.113.116.150:25461/mtm1/12345/19
+#EXTINF:0,CINEMAX
+http://103.113.116.150:25461/mtm1/12345/20
+#EXTINF:0,Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:0,Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:0,HITS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
+#EXTINF:0,HITSMOVIE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
+#EXTINF:0,AXN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683144&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Galaxy
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/264773
+#EXTINF:0,Galaxy Premium
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/264774
+#EXTINF:0,Sony Pix
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0,CINEMA WORLD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683146&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,MCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+#EXTINF:0,IMC
+http://103.113.116.150:25461/mtm1/12345/21
+#EXTINF:0,FLIK
+http://103.113.116.150:25461/mtm1/12345/22
+#EXTINF:0,BIOSKOP INDONESIA
+http://103.113.116.150:25461/mtm1/12345/23
+#EXTINF:0,WARKOP DKI
+http://103.113.116.150:25461/mtm1/12345/45
+#EXTINF:0,DUNIA SINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:0,CITRA BIOSKOP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+#EXTINF:0,CITRA MUSLIM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+#EXTINF:0,CITRA DRAMA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+#EXTINF:0,CITRA DANGDUT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
+#EXTINF:0,CITRA ENTERTAINMENT
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
+#EXTINF:0,beIN Sports 1
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/165105
+#EXTINF:0,beIN Sports 3
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/298506
+#EXTINF:0,MUSLIM TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683103&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,SPOTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683117&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,SPOTV2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+#EXTINF:0,Sportstar
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683133&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,FIGHT SPORT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683135&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ASTRO SUPERSPORT 2
+http://103.113.116.150:25461/mtm1/12345/48
+#EXTINF:0,ASTRO SUPERSPORT 3
+http://103.113.116.150:25461/mtm1/12345/49
+#EXTINF:0,ASTRO SUPERSPORT 4
+http://103.113.116.150:25461/mtm1/12345/50
+#EXTINF:0,VISION PRIME
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683124&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CELEBRITIES TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683126&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,OK TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683105&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,OKEZONE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683128&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,FLIK
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/165095
+#EXTINF:0,FMN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683143&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HITS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683145&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HITS MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683163&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CELESTIAL MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683142&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+#EXTINF:0,CCM
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683110&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,KIX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683134&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683130&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:0,KBSWORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+#EXTINF:0,TVN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683148&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TVN MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683149&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Nadoo Korean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+#EXTINF:0,My Family Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683150&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Cinema Asia
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683151&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683152&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,THRILL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683154&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HUB SPORT 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683138&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMACHI ACTION
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683090&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMACHI EXTRA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683161&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMACHI MAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683173&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMACHI KIDS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683085&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Zee Bioskop
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,SONY MAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
+#EXTINF:0,Disney XD
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/276564
+#EXTINF:0,Disney Channel
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/165075
+#EXTINF:0,ANIMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683165&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ANIPLUS
+http://103.113.116.150:25461/mtm1/12345/26
+#EXTINF:0,BOOMERANG
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+#EXTINF:0,NICKELODEON
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683175&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,NICKJR.
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+#EXTINF:0,DREAMWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683171&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ZOOMOO
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683172&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Kidz
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683156&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,MENTARI TV
+http://103.113.116.150:25461/mtm1/12345/25
+#EXTINF:0,HOREE
+http://103.113.116.150:25461/mtm1/12345/112
+#EXTINF:0,XINGKONG
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683118&extension=ts&play_token=wJfTp9js5o
