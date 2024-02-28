@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0, GEM
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
+#EXTINF:0, CITRA BIOSKOP
+#EXTVLCOPT:network-caching=1000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
