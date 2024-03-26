@@ -1,0 +1,86 @@
+#EXTM3U
+#EXTINF:60,Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:26, TRANS7
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:100, TRANSTV
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:40,SONY PIX
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:60, KIX
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:60,K+
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/session/193aa22c-25f6-11ed-8260-83b5bb6e22c3/uq2663/h/h08/01.m3u8
+#EXTINF:0,ETV BIOSKOP 1
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
+#EXTINF:0,ETV BIOSKOP 2
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
+#EXTINF:0,ETV BIOSKOP 3
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
+#EXTINF:0,ETV BIOSKOP 4
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+#EXTINF:0,-----  MALAYSIA -----
+#EXTVLCOPT:network-caching=1000
+https://uc0db9a3143b648288b1821f2ccc.dl.dropboxusercontent.com/cd/0/get/CPnn8hoVQEE3ItjrO_BQNft784nJjNfnAY_A_UKbLRfA1JsHZHxhX6WvEvQzVV7pa9tt5v1qEL4WWerNp3j5M_gRzgq9j_FjRu0AM0Wx8hNX-STkCYIXRUMwPoW-UvaXfMgsnZQ9sVO7KNCtktXx5ie_/-----%20%20MALAYSIA%20-----
+#EXTINF:18,Dunia Sinema HD
+#EXTVLCOPT:network-caching=1000
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:0,-----  RELIGION -----
+#EXTVLCOPT:network-caching=1000
+https://uc0db9a3143b648288b1821f2ccc.dl.dropboxusercontent.com/cd/0/get/CPnn8hoVQEE3ItjrO_BQNft784nJjNfnAY_A_UKbLRfA1JsHZHxhX6WvEvQzVV7pa9tt5v1qEL4WWerNp3j5M_gRzgq9j_FjRu0AM0Wx8hNX-STkCYIXRUMwPoW-UvaXfMgsnZQ9sVO7KNCtktXx5ie_/-----%20%20RELIGION%20-----
+#EXTINF:0,Wesal TV
+#EXTVLCOPT:network-caching=1000
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:39, Hijrah TV
+#EXTVLCOPT:network-caching=1000
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:0, MQTV
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:0, BEIN SPORTS 1 FR
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59062&extension=ts
+#EXTINF:0, BEIN SPORTS 2 FR
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59063&extension=ts
+#EXTINF:0, BEIN SPORTS 3 FR
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59064&extension=ts
+#EXTINF:0, BEIN SPORTS 4 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59066&extension=ts
+#EXTINF:0, BEIN SPORTS 5 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59067&extension=ts
+#EXTINF:0, BEIN SPORTS 6 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59068&extension=ts
+#EXTINF:0, BEIN SPORTS 7 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59069&extension=ts
+#EXTINF:0, BEIN SPORTS 8 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59070&extension=ts
+#EXTINF:0, BEIN SPORTS 9 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59071&extension=ts
+#EXTINF:0, BEIN SPORTS 10 MAX
+#EXTVLCOPT:network-caching=1000
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=59065&extension=ts
