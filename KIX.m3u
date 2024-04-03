@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,K+ (Indonesian subtitle) (576p)
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:0,Kix (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:0,ROCK Action (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:0,ROCK Entertainment (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:0,tvN Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:0,ANIMAX
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animax.m3u8
