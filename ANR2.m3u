@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:24,SPOTV (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
+#EXTINF:23,SPOTV2 (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
+#EXTINF:21,PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
+#EXTINF:21,AXN (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
+#EXTINF:60,Rock Action (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#EXTINF:60,Rock Entertainment (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockentertainment.m3u8
+#EXTINF:59,HGTV Asia (F*)
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:40, SONY PIX
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
