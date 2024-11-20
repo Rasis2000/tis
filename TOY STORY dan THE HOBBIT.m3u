@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:4863, Toy Story (1995) Dubbing Indonesia
+https://cldup.com/iAs8qzOwTf8.mp4
+#EXTINF:0, Toy Story 2 (1999) Dubbing Indonesia
+https://dubbindo.s3.us-west-004.backblazeb2.com/Toy.Story.2.1999.720p.Dubbing.mp4
+#EXTINF:10177,The Hobbit: Perjalanan Tak Terduga
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1LwqXMF9O6JtZuMMaVHkAGH46SpH4_PpU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,The Hobbit: The Desolation of Smaug
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/15RYo8efhKos-QTnoj-r0DrvtgI74mcSX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:8669,The Hobbit: Pertempuran Lima Tentara
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1sLMVcHsH5yT_QsZtWqXLdcVsVGz7fIaw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
