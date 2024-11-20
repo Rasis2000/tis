@@ -1,0 +1,572 @@
+#EXTM3U
+#EXTINF:0,INDOSIAR HD
+http://xtv.ooo:8080/6729400/5718209/350972
+#EXTINF:6,BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch116.m3u8
+#EXTINF:37,FICOM CHANEL BACKUP
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:25,PARAMOUNT MOVIE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:25,PARAMOUNT + PICK
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b
+#EXTINF:60,Action Hollywood Movies FHD
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:119,Gravitas Movies
+https://ddniyunj92pl0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2amrzf32ny10z/playlist.m3u8
+#EXTINF:0,Aniplus DENSTV 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?
+#EXTINF:30,BOOMERANG TH
+https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/chunklist_w712344028.m3u8
+#EXTINF:20, Premier League 1
+http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1722.m3u8
+#EXTINF:60, Premier League 2
+http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1721.m3u8
+#EXTINF:25,RIDE PAS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
+#EXTINF:510,HIK Media Server V3.4.99
+https://livepantau.semarangkota.go.id/hls/1622/101/2024/b54fddcc-47ee-4689-8a8a-e15d30dc69bd_101.m3u8
+#EXTINF:0,TANDANG RT 2 RW 5
+https://livepantau.semarangkota.go.id/hls/4101/201/2024/963885e8-2af6-4892-add7-dc3c4c0c93a6_201.m3u8
+#EXTINF:0,SINAR WALUYO
+https://livepantau.semarangkota.go.id/hls/7107/201/2024/845098a5-c326-4079-9350-062545f3640a_201.m3u8
+#EXTINF:0,SENDANG MULYO RT 6 RW 9
+https://livepantau.semarangkota.go.id/hls/5924/201/2024/09ca4e2c-5f57-41c1-ad92-84b010ef34b9_201.m3u8
+#EXTINF:0,SENDANG MULYO RT 4 RW 32
+https://livepantau.semarangkota.go.id/hls/5761/101/2024/6a964177-b3aa-4a29-a65b-5898aac0d0b6_101.m3u8
+#EXTINF:0,SENDANG GUO RT 10 RW 6
+https://livepantau.semarangkota.go.id/hls/5838/301/2024/d77030c8-73a6-413d-9b1e-912c1ddcb854_301.m3u8
+#EXTINF:0,SENDANG GUO RT 10 RW 6 CAM 1
+https://livepantau.semarangkota.go.id/hls/5838/101/2024/d77030c8-73a6-413d-9b1e-912c1ddcb854_101.m3u8
+#EXTINF:0,TANDANG RT 12 RW 11
+https://livepantau.semarangkota.go.id/hls/7908/101/2024/b721cdff-70c2-4cd0-9a83-e28dbf5af038_101.m3u8
+#EXTINF:0,MANGUNHARJO RT 6 RW 9
+https://livepantau.semarangkota.go.id/hls/7389/101/2024/e72d0892-c605-439b-a346-35c322d6db16_101.m3u8
+#EXTINF:0,SENDANG MULYO RT 4 RW 17 PORTAL BARAT
+https://livepantau.semarangkota.go.id/hls/4509/101/2024/41b26f30-8c36-48e0-a71c-c52d01914c10_101.m3u8
+#EXTINF:0,PANDEAN LAMPER RT 10 RW 7
+https://livepantau.semarangkota.go.id/hls/3252/101/2024/d59a420a-0f56-4f89-9520-7b926fe0e05f_101.m3u8
+#EXTINF:0,NGALIYAN RT 1 RW 10
+https://livepantau.semarangkota.go.id/hls/8255/101/2024/bb6d8b59-beea-4704-9518-0b59ae0cf1da_101.m3u8
+#EXTINF:0,NGALIYAN RT 1 RW 10 GANG SEMPIT
+https://livepantau.semarangkota.go.id/hls/8255/201/2024/bb6d8b59-beea-4704-9518-0b59ae0cf1da_201.m3u8
+#EXTINF:0,WONOSARI RT 1 RW 9
+https://livepantau.semarangkota.go.id/hls/1739/101/2024/ec785d7a-4021-46fc-bcb5-17a14e1f45a7_101.m3u8
+#EXTINF:0,WONOSARI RT 1 RW 9 CAM 2
+https://livepantau.semarangkota.go.id/hls/1739/201/2024/ec785d7a-4021-46fc-bcb5-17a14e1f45a7_201.m3u8
+#EXTINF:0,CAMERA 01
+https://livepantau.semarangkota.go.id/hls/5761/201/2024/6a964177-b3aa-4a29-a65b-5898aac0d0b6_201.m3u8
+#EXTINF:0,KEMIJEN RT 6 RW 7
+https://livepantau.semarangkota.go.id/hls/7029/301/2024/af561f68-e561-45b9-a854-a43a2048e7be_301.m3u8
+#EXTINF:0,KEMIJEN RT 6 RW 7
+https://livepantau.semarangkota.go.id/hls/7029/401/2024/af561f68-e561-45b9-a854-a43a2048e7be_401.m3u8
+#EXTINF:0,KEMIJEN RT 2 RW 5
+https://livepantau.semarangkota.go.id/hls/5271/101/2024/715bd4b9-5485-4c24-808c-2551f1037d93_101.m3u8
+#EXTINF:0,MLATI HARJO
+https://livepantau.semarangkota.go.id/hls/3792/101/2024/38721488-21a9-45cb-b222-edcf8d17eed4_101.m3u8
+#EXTINF:0,PONGANGAN GN PATI
+https://livepantau.semarangkota.go.id/hls/4647/201/2024/d579a7b6-a32d-4869-a057-311aebcbab7d_201.m3u8
+#EXTINF:0,MLATI BARU RT 4 RW 8
+https://livepantau.semarangkota.go.id/hls/4540/201/2024/2e598ccd-5f5e-4baa-9f00-4275b4d0b98e_201.m3u8
+#EXTINF:0,MLATI HARJO CAM 2
+https://livepantau.semarangkota.go.id/hls/3354/201/2024/210fc3e3-74a3-46cd-888b-626f0e50fee2_201.m3u8
+#EXTINF:0,MLATI HARJO CAM HIKVSION
+https://livepantau.semarangkota.go.id/hls/3354/101/2024/210fc3e3-74a3-46cd-888b-626f0e50fee2_101.m3u8
+#EXTINF:0,JRAKAH RT 1 RW 3
+https://livepantau.semarangkota.go.id/hls/491/301/2024/d93ab8ca-a38b-4001-9877-22bba53e6844_301.m3u8
+#EXTINF:0,JRAKAH RT 1 RW 3 CAM 2
+https://livepantau.semarangkota.go.id/hls/491/201/2024/d93ab8ca-a38b-4001-9877-22bba53e6844_201.m3u8
+#EXTINF:0,GENUK RT 3 RW 9
+https://livepantau.semarangkota.go.id/hls/3702/101/2024/aa668ff9-d3a2-47de-b06d-5b31c4180c01_101.m3u8
+#EXTINF:0,BANJARDOWO
+https://livepantau.semarangkota.go.id/hls/6418/201/2024/b851458f-b8e8-4ec6-b706-9ec4a0bb32f0_201.m3u8
+#EXTINF:0,GENUK SARI RT 10 RW 4
+https://livepantau.semarangkota.go.id/hls/10264/101/2024/8bef2f2f-0235-49af-8522-0e505b5f2e4b_101.m3u8
+#EXTINF:0,KEMIJEN RT 6 RW 7
+https://livepantau.semarangkota.go.id/hls/7029/101/2024/af561f68-e561-45b9-a854-a43a2048e7be_101.m3u8
+#EXTINF:0,SENDANG MULYO RT 4 RW 2
+https://livepantau.semarangkota.go.id/hls/3531/301/2024/9673205d-47ea-4815-960e-a251c31e5ea9_301.m3u8
+#EXTINF:0,BULU LOR RT 3 RW 5
+https://livepantau.semarangkota.go.id/hls/9334/101/2024/8a261b06-634a-4b57-97be-14668560569a_101.m3u8
+#EXTINF:0,CAM 2 PLAMONGAN SARI
+https://livepantau.semarangkota.go.id/hls/8582/201/2024/4da69857-c7ea-4109-ab6a-54c40bb6e2a0_201.m3u8
+#EXTINF:0,PLAMONGAN SARI RT 2 RW 10
+https://livepantau.semarangkota.go.id/hls/8582/101/2024/4da69857-c7ea-4109-ab6a-54c40bb6e2a0_101.m3u8
+#EXTINF:0,PEDURUNGAN KIDUL BLANCIR
+https://livepantau.semarangkota.go.id/hls/8526/101/2024/1d712cb3-1eed-4788-9155-41202091b416_101.m3u8
+#EXTINF:0,KEMIJEN RT 8 RW 7
+https://livepantau.semarangkota.go.id/hls/4508/201/2024/a201c369-6559-432f-b208-fb57b74b1c51_201.m3u8
+#EXTINF:0,PATEMON RT 1 RW 2
+https://livepantau.semarangkota.go.id/hls/2943/201/2024/c7eac2f5-858c-4926-a5a0-9a6c4b0e1f91_201.m3u8
+#EXTINF:0,KROBOKAN RT 9 RW 12
+https://livepantau.semarangkota.go.id/hls/5206/1/2024/caaf9885-49cf-492f-a86e-3180db26884e_1.m3u8
+#EXTINF:0,KALIPANCUR RT13 RW 4
+https://livepantau.semarangkota.go.id/hls/2111/101/2024/dd1269e1-e0ba-478f-99eb-c0eab9abeee0_101.m3u8
+#EXTINF:0,KRAMAS RT 1 RW 1
+https://livepantau.semarangkota.go.id/hls/7344/101/2024/dead96ad-6ccd-4fa1-a84e-d08b437a52c5_101.m3u8
+#EXTINF:0,PETERONGAN RT 4 RW 7
+https://livepantau.semarangkota.go.id/hls/165/201/2024/8921ba32-50bd-4ff1-b787-23a28131add4_201.m3u8
+#EXTINF:0,PLEBURAN RT 5 RW 1
+https://livepantau.semarangkota.go.id/hls/2372/201/2024/ef46bfd7-f531-497d-a4db-310bf7a72fc8_201.m3u8
+#EXTINF:378,HIK Media Server V3.4.99
+https://livepantau.semarangkota.go.id/hls/1480/101/2024/10a5bdd3-2d8e-4093-a975-bca867237ff2_101.m3u8
+#EXTINF:0,DEPAN WARUNG PAK ROHMAT SENDANG MULYO
+https://livepantau.semarangkota.go.id/hls/3430/401/2024/6edc510a-e419-4a79-a692-f85a14d07846_401.m3u8
+#EXTINF:0,KRANGGAN RT 1 RW 5
+https://livepantau.semarangkota.go.id/hls/1547/101/2024/f6ecdb7f-1621-4271-a523-1ec9b6da718d_101.m3u8
+#EXTINF:0,KEMBANG SARI RT 2 RW 3
+https://livepantau.semarangkota.go.id/hls/1477/201/2024/54942a12-feb1-4d3e-a85e-fc0e071a5f5a_201.m3u8
+#EXTINF:0,GABAHAN RT 7 RW 3
+https://livepantau.semarangkota.go.id/hls/1584/201/2024/d0f190e5-7e12-4189-8012-b2d667aa3849_201.m3u8
+#EXTINF:0,KEMIJEN
+https://livepantau.semarangkota.go.id/hls/4508/101/2024/a201c369-6559-432f-b208-fb57b74b1c51_101.m3u8
+#EXTINF:0,PANDANSARI
+https://livepantau.semarangkota.go.id/hls/1302/201/2024/d7cdced7-e574-4b9b-af54-6a32c782d554_201.m3u8
+#EXTINF:0,KALICARI RT 8 RW 8
+https://livepantau.semarangkota.go.id/hls/5453/101/2024/459406ba-8eea-4b44-81f9-56de0d5e3bee_101.m3u8
+#EXTINF:0,RUMAH WARGA KALICARI
+https://livepantau.semarangkota.go.id/hls/5453/201/2024/459406ba-8eea-4b44-81f9-56de0d5e3bee_201.m3u8
+#EXTINF:0,DEPAN KOST PUTRA KETILENG
+https://livepantau.semarangkota.go.id/hls/6616/101/2024/c5d61335-4909-4dcb-b866-8d0c9334828f_101.m3u8
+#EXTINF:0,MUSHOLLA
+https://livepantau.semarangkota.go.id/hls/6341/1001/2024/61765c8a-e53e-4b74-a656-410ba0ccaa9c_1001.m3u8
+#EXTINF:0,MBEROK OUT
+https://livepantau.semarangkota.go.id/hls/10209/6301/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_6301.m3u8
+#EXTINF:0,KALIPANCUR RT 11 RW 1
+https://livepantau.semarangkota.go.id/hls/1817/401/2024/34833a18-b616-4fe3-a9ee-4f3a96f2db4f_401.m3u8
+#EXTINF:0,BANGER SD
+https://livepantau.semarangkota.go.id/hls/10209/2401/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_2401.m3u8
+#EXTINF:0,KDK KEBO OUT
+https://livepantau.semarangkota.go.id/hls/10209/6001/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_6001.m3u8
+#EXTINF:0,KARTINI OUT
+https://livepantau.semarangkota.go.id/hls/10209/7801/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_7801.m3u8
+#EXTINF:0,KARTINI IN
+https://livepantau.semarangkota.go.id/hls/10209/8101/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_8101.m3u8
+#EXTINF:0,MAJAPAHIT IN
+https://livepantau.semarangkota.go.id/hls/10209/3901/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_3901.m3u8
+#EXTINF:0,MAJAPAHIT OUT
+https://livepantau.semarangkota.go.id/hls/10209/4001/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_4001.m3u8
+#EXTINF:0,KALI SMG2
+https://livepantau.semarangkota.go.id/hls/10209/1401/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_1401.m3u8
+#EXTINF:0,POMPA PENYEDOT
+https://livepantau.semarangkota.go.id/hls/10209/1601/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_1601.m3u8
+#EXTINF:0,LORONG GENSET
+https://livepantau.semarangkota.go.id/hls/10209/8801/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_8801.m3u8
+#EXTINF:0,KYAI SALEH
+https://livepantau.semarangkota.go.id/hls/414/201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_201.m3u8
+#EXTINF:0,PANTAI BARON
+https://stream.gunungkidulkab.go.id:8888/630843dd-4488-4360-8f86-b23f3e67980d/stream.m3u8
+#EXTINF:0,PANTAI KUKUP
+https://stream.gunungkidulkab.go.id:8888/53fa897a-dc59-435b-841b-ce544d559a20/stream.m3u8
+#EXTINF:0,KELURAHAN GETAS
+https://stream.gunungkidulkab.go.id:8888/097ef287-a064-4730-8b65-0fdfad75f327/stream.m3u8
+#EXTINF:0,PERTIGAAN BUNDER
+https://stream.gunungkidulkab.go.id:8888/cdb69448-349b-460e-ac6c-545199e93599/stream.m3u8
+#EXTINF:0,JJLS PLANJAN
+https://stream.gunungkidulkab.go.id:8888/5858ca16-f730-49d1-a494-9d20a82b9b55/stream.m3u8
+#EXTINF:0,SMP 1 PLAYEN
+https://stream.gunungkidulkab.go.id:8888/c43d6c28-d03d-4aab-a589-7410b655908d/stream.m3u8
+#EXTINF:0,SD KARANGREJEK
+https://stream.gunungkidulkab.go.id:8888/97561df3-c774-495a-b4d6-e5654108ac43/stream.m3u8
+#EXTINF:0,PEREMPATAN PATUK
+https://stream.gunungkidulkab.go.id:8888/d237c46b-f15b-490c-869c-b5375df3a020/stream.m3u8
+#EXTINF:0,SMP3 WONOSARI
+https://stream.gunungkidulkab.go.id:8888/f156c1d9-9381-45f5-a20f-cd323fb3a639/stream.m3u8
+#EXTINF:0,NGRINGUNG MULO
+https://stream.gunungkidulkab.go.id:8888/bbc05db8-09ae-44d1-a049-3d22bd18962b/stream.m3u8
+#EXTINF:0,PERTIGAAN PASAR PAYEN
+https://stream.gunungkidulkab.go.id:8888/3cdd4d3d-123f-4fdd-9600-5afce882d8e5/stream.m3u8
+#EXTINF:0,ALUN ALUN WONOSARI
+https://stream.gunungkidulkab.go.id:8888/c066fe94-69d3-487b-990a-f0bdb24fa9e9/stream.m3u8
+#EXTINF:0,BUNDERAN SIYONO
+https://stream.gunungkidulkab.go.id:8888/447f180a-3aa6-41af-a905-4f5567b84f1b/stream.m3u8
+#EXTINF:0,TUGU SELAMAT DATANG PATUK
+https://stream.gunungkidulkab.go.id:8888/472ac01d-84a3-40bd-b8a4-d7de2262f65b/stream.m3u8
+#EXTINF:0,PUSKESMAS NGAWEN 2
+https://stream.gunungkidulkab.go.id:8888/8193c0b3-0d34-43a1-9185-a534f6ffa303/stream.m3u8
+#EXTINF:0,SRITEN
+https://stream.gunungkidulkab.go.id:8888/f15832eb-7d45-4800-b740-ade96dc7d94e/stream.m3u8
+#EXTINF:0,PERTIGAAN SD NANAS
+https://stream.gunungkidulkab.go.id:8888/68e924c4-c94a-42e7-93ca-12b685c6513b/stream.m3u8
+#EXTINF:0,BUNDERAN PLN
+https://stream.gunungkidulkab.go.id:8888/ef7bc11d-8e05-4414-8e25-edeb78929cf0/stream.m3u8
+#EXTINF:0,SMP 2 PALIYAN
+https://stream.gunungkidulkab.go.id:8888/a7891cb1-d941-4974-94cd-de33ac5d84b0/stream.m3u8
+#EXTINF:0,KELURAHAN REJOSARI
+https://stream.gunungkidulkab.go.id:8888/a8b41e1f-51ae-4f3c-b61f-3d3485714fee/stream.m3u8
+#EXTINF:0,KELURAHAN SAMBIREJO
+https://stream.gunungkidulkab.go.id:8888/a4bed595-2ed8-46f5-a802-fc450bdf67e9/stream.m3u8
+#EXTINF:0,BPP PLAYEN
+https://stream.gunungkidulkab.go.id:8888/40c44e72-0ef8-42b5-9410-8c88ad2d062d/stream.m3u8
+#EXTINF:0,SD TROWO 1
+https://stream.gunungkidulkab.go.id:8888/076df88c-ce65-47f4-8d4e-4872c430eee8/stream.m3u8
+#EXTINF:0,TERMINAL SENIN
+https://stream.gunungkidulkab.go.id:8888/f4e65d43-ff9a-4603-b035-b2bb778fc9d1/stream.m3u8
+#EXTINF:0,SD PUCUNG
+https://stream.gunungkidulkab.go.id:8888/407a2a57-0202-4303-8314-114e635549c2/stream.m3u8
+#EXTINF:0,SMPN 1 TANJUNGSARI
+https://stream.gunungkidulkab.go.id:8888/d15446f5-d59f-47f0-b6d6-5828c28dfc6b/stream.m3u8
+#EXTINF:0,PUSKESMAS PATUK 2
+https://stream.gunungkidulkab.go.id:8888/565f31f5-ca89-4db2-937b-dd33f9fb5102/stream.m3u8
+#EXTINF:0,RTH1
+https://stream.gunungkidulkab.go.id:8888/a33d3b04-6512-497a-ac32-d512343842cc/stream.m3u8
+#EXTINF:0,RTH2
+https://stream.gunungkidulkab.go.id:8888/7ecb3678-fc9a-4d9a-9b71-d1716ab29c44/stream.m3u8
+#EXTINF:0,RTH3
+https://stream.gunungkidulkab.go.id:8888/e64fd9c3-5c73-4dc4-b2db-2ca7441b12c2/stream.m3u8
+#EXTINF:0,TPR PANTAI BARON
+https://stream.gunungkidulkab.go.id:8888/f6314dd1-a8ea-40a9-8a97-e0f2f8dc4bdd/stream.m3u8
+#EXTINF:0,PASAR ARGOSARI
+https://stream.gunungkidulkab.go.id:8888/5b13c6d9-1295-4e5d-927a-ef546e433339/stream.m3u8
+#EXTINF:0,PEMDA GN KIDUL
+https://stream.gunungkidulkab.go.id:8888/d41813e2-fafb-42a4-a7b9-5e713c0e9606/stream.m3u8
+#EXTINF:0,SD TROWONO 3
+https://stream.gunungkidulkab.go.id:8888/0416e020-1e28-4066-aa3f-5083cdb4cdc2/stream.m3u8
+#EXTINF:0,SIMPANG 3 AMIGO
+https://stream.gunungkidulkab.go.id:8888/bf8e74bf-ab2e-4eda-8a59-f06a31f028e5/stream.m3u8
+#EXTINF:0,PENGHITUNG KENDARAAN
+https://stream.gunungkidulkab.go.id:8888/bdf1ba90-6e30-4d59-b36d-468dda946658/stream.m3u8
+#EXTINF:0,TPR PANTAI BARON2
+https://stream.gunungkidulkab.go.id:8888/9cca7e74-e0b0-49b1-9d62-effbb8589555/stream.m3u8
+#EXTINF:0,GADING UTARA
+https://stream.gunungkidulkab.go.id:8888/ee587917-0cca-403d-855f-d8cee27721da/stream.m3u8
+#EXTINF:0,LAPANGAN PEMDA BARAT
+https://stream.gunungkidulkab.go.id:8888/618a774c-186e-4ab2-9d9c-e4f59d09ab66/stream.m3u8
+#EXTINF:0,PANTAI WEDIOMBO
+https://stream.gunungkidulkab.go.id:8888/3f008260-e48f-4dc2-bec4-93d7ec42dcb9/stream.m3u8
+#EXTINF:0,TOWER AIR MANCUR
+https://restreamer.magelangkota.go.id/memfs/d4c1e7dc-7366-4524-8c8a-df0edf465070_output_0.m3u8?session=XFcnxh2wYJ78dbPxbtsnSn
+#EXTINF:0,TOWER AIR MANCUR TELKOM
+https://restreamer.magelangkota.go.id/memfs/5e279191-cdc1-4997-91d1-827b72c2a851_output_0.m3u8?session=CXcSzdEh2Cbccn3eUWUuhv
+#EXTINF:0,ALUN ALUN MAGELANG
+https://restreamer.magelangkota.go.id/memfs/03e3af15-9afa-44a2-aa13-8f1148055c3c_output_0.m3u8?session=ZQFEYqp2GW6sAjDPFkSnq3
+#EXTINF:0,ALON ALON
+https://restreamer.magelangkota.go.id/memfs/02d3f467-7605-414b-b485-515352d44b4b_output_0.m3u8?session=gFV3q6b6uJ7BVNMroHBb2o
+#EXTINF:0,TAMAN SKATE BOARD
+https://restreamer.magelangkota.go.id/memfs/fecfab42-1a8c-4557-b79f-ba3485577dfc_output_0.m3u8?session=b5mXMRPkKW5RugMnmQUTaP
+#EXTINF:0,TAMAN AYANI
+https://restreamer.magelangkota.go.id/memfs/ceb2d497-d753-4b86-a75c-f28f7fd944bf_output_0.m3u8?session=LmBGBngt6i2MdtQ7GnTN8Q
+#EXTINF:0,TAMAN BADAAN UTARA
+https://restreamer.magelangkota.go.id/memfs/cdf5e8a1-841e-40e3-bce5-beda8fe78fe3_output_0.m3u8?session=ZM2nbH3xuhEXzo5sP4mBBe
+#EXTINF:0,SIMPANG KUPATAN
+https://restreamer.magelangkota.go.id/memfs/b27afd3a-6faa-4999-8ef0-500b22c9d68c_output_0.m3u8?session=MsiEKAy2nMLomV6wddrRZq
+#EXTINF:0,SMA 1 KRISTEN PERTIGAAN
+https://restreamer.magelangkota.go.id/memfs/2305d4f8-d4e7-4a4e-8021-dbc1755a8e6f_output_0.m3u8?session=6NSdUZndkyfwuJ3S6on9Rp
+#EXTINF:0,ARTOS TIMUR
+https://restreamer.magelangkota.go.id/memfs/2b17c259-f444-4f39-89cd-791bee037866_output_0.m3u8?session=2iDFUzVJyk4jm9gAmoi9LT
+#EXTINF:0,SIMP KRAWANG
+https://stream.kuduskab.go.id/memfs/9164e11b-5ce5-429f-9093-612f182d75b3.m3u8?session=jszjxi7zH6FDu63SCnAVzv
+#EXTINF:0,SIMP DAWE 2
+https://stream.kuduskab.go.id/memfs/4e3a10aa-5a41-4398-8334-20c9cf1edd23.m3u8?session=FTciGFNwQizNPjtk9G3DQP
+#EXTINF:0,SIMP DAWE 1
+https://stream.kuduskab.go.id/memfs/908c5b34-ff8f-4dd2-9f6b-1ea0dca0cba1.m3u8?session=2puq6JWFhtQAAwkcbUPVJb
+#EXTINF:0,SIMP PAJANG
+https://stream.kuduskab.go.id/memfs/b97c64c2-c9d2-4ecf-9eaf-ec8b01de63ba.m3u8?session=LGB3aSyLsvTcQ2gkv63NjQ
+#EXTINF:0,SIMP KENCING
+https://stream.kuduskab.go.id/memfs/bfb7f870-8f7c-4ff3-9da2-def6114d37ff.m3u8?session=fwaJCf3kwHfoMD5Tbdmnmf
+#EXTINF:0,SIMP LAMPU MERAH
+https://stream.kuduskab.go.id/memfs/4685afda-b1bc-42fb-9e53-af62eb1e0f49.m3u8?session=AScrLtXm4esxAww3BE2WqY
+#EXTINF:0,SIMP KLENTENG
+https://stream.kuduskab.go.id/memfs/a6026e65-5fda-4ca6-863b-7d14939307a3.m3u8?session=XSX2MSvCnZ89RaiRjWLErV
+#EXTINF:0,SIMP KRAWANG
+https://stream.kuduskab.go.id/memfs/9164e11b-5ce5-429f-9093-612f182d75b3.m3u8?session=jszjxi7zH6FDu63SCnAVzv
+#EXTINF:0,SIMP DAWE
+https://stream.kuduskab.go.id/memfs/4e3a10aa-5a41-4398-8334-20c9cf1edd23.m3u8?session=FTciGFNwQizNPjtk9G3DQP
+#EXTINF:0,SIMP JETAK
+https://stream.kuduskab.go.id/memfs/b7f760b4-a792-49c0-a027-99f4bfbfc28a.m3u8?session=kGfyTjzd4n6Fi33JHonuG6
+#EXTINF:0,SIMP PANJANG
+https://stream.kuduskab.go.id/memfs/b97c64c2-c9d2-4ecf-9eaf-ec8b01de63ba.m3u8?session=LGB3aSyLsvTcQ2gkv63NjQ
+#EXTINF:0,SIMP MATAHARI
+https://stream.kuduskab.go.id/memfs/a89d331c-ed5e-483f-b9f3-dc324e48d359.m3u8?session=EsYB9Qx3f9aPtRAUEn4ksX
+#EXTINF:0,JALAN KEMBAR
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kembar.m3u8
+#EXTINF:0,TERUSAN JALAN BUAH BATU
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuahbatu.m3u8
+#EXTINF:0,ALUN ALUN ASIA AFRIKA
+https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8
+#EXTINF:0,JEMBATAN CIMINDI
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIMINDI.m3u8
+#EXTINF:0,SURAPATI JALAPARANG
+https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8
+#EXTINF:0,SIMPANG DAGO
+https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangempat.m3u8
+#EXTINF:0,TAMAN SARI UNISBA
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/unisbaa.m3u8
+#EXTINF:0,TAMAN SARI PASUPATI 2
+https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpasupatidua.m3u8
+#EXTINF:0,TAMAN SKETPARK
+https://pelindung.bandung.go.id:3443/video/DPKP3/tamansketparktiga.m3u8
+#EXTINF:0,CHAMPELAS 3
+https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8
+#EXTINF:0,TALAGA BODAS
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/kadinn.m3u8
+#EXTINF:0,PALASARI
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/Palasari.m3u8
+#EXTINF:0,MARTANEGARA
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegaraa.m3u8
+#EXTINF:0,PASAR KIARACONDONG
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8
+#EXTINF:0,PEREMPATAN BINONG
+https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8
+#EXTINF:0,TUGU GAJAH
+https://stream.pringsewukab.go.id/memfs/f06d54c5-43b2-4f1c-9bf7-0fcc491e3c6c_output_0.m3u8?session=gRk2bjwMyX92ct6XmP97Ys
+#EXTINF:0,PASAR GADING REJO
+https://stream.pringsewukab.go.id/memfs/cfed881d-8f09-42bc-9944-920013c20017_output_0.m3u8?session=VGDatWUrxaNgZaPi5Zibca
+#EXTINF:0,SIMPANG 3 HOTEL URBAN
+https://stream.pringsewukab.go.id/memfs/89ced27c-8545-4884-863d-2681c3887d43_output_0.m3u8?session=WTjUNNMFYsQ6937byRbMV8
+#EXTINF:0,SIMPANG GAREGEH 1
+https://cctv.bukittinggikota.go.id/devCctv/cctv19/cctv19-.m3u8
+#EXTINF:0,SIMPANG GAREGEH 2
+https://cctv.bukittinggikota.go.id/devCctv/cctv20/cctv20-.m3u8
+#EXTINF:0,SIMP MANDIANGIN
+https://cctv.bukittinggikota.go.id/devCctv/cctv28/cctv28-.m3u8
+#EXTINF:0,SIMP GADANG
+https://cctv.bukittinggikota.go.id/devCctv/cctv25/cctv25-.m3u8
+#EXTINF:0,SIMP TAROK
+https://cctv.bukittinggikota.go.id/devCctv/cctv32/cctv32-.m3u8
+#EXTINF:0,GADANG 2
+https://cctv.bukittinggikota.go.id/devCctv/cctv18/cctv18-.m3u8
+#EXTINF:0,SIMPANG KORPRI
+https://stream.bantulkab.go.id/38fe6b1c-2563-4c03-bc81-6737c9e4b48c_output_0.m3u8?session=UExAzhhhaXxQnBVhpu3uxH
+#EXTINF:0,MAKAM KOTA GEDE
+https://stream.bantulkab.go.id/e09992bf-ce95-4fbf-baba-95a79dd722f2_output_0.m3u8?session=axkCj3C3vmnC39VaRJi82B
+#EXTINF:0,GAPURA MASJID IMOGIRI
+https://stream.bantulkab.go.id/78665eea-5656-40bf-ac5f-d7c50fe52628_output_0.m3u8?session=eQAZ6EUVfoRKfcu7CcM5U9
+#EXTINF:0,PASAR BANTUL
+https://stream.bantulkab.go.id/2acc430a-a201-43a4-bc2c-a98eef05f786_output_0.m3u8?session=3e6rQfJSceeHwSE7dBKVDF
+#EXTINF:0,SIMPANG PASEBAN
+https://stream.bantulkab.go.id/5de5699b-0227-44d8-99a4-bb513f8c2dbc_output_0.m3u8?session=E9PoEFyqjDP3LDaZeE7xy9
+#EXTINF:0,ALUN ALUN SELATAN
+https://stream.trenggalekkab.go.id/live/smil:cctv8_alon2_selatan.smil/chunklist_w1789794186_b50000_sleng.m3u8
+#EXTINF:0,S4 PRAMUKA
+https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Lingkar.m3u8
+#EXTINF:0,S4 PRAMUKA DR HAFIZ
+https://atcs.cianjurkab.go.id:5443/LiveApp/streams/SP4_Pramuka_Dari_Arah_Dr_Hafiz.m3u8
+#EXTINF:0,SIMPANG 4 A YANI
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8
+#EXTINF:0,BUNDARAN PRAMUKA
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv14/a14.m3u8
+#EXTINF:0,BUNDERAN MISBAR
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8
+#EXTINF:0,SIMPANG 3 PALINGKAU
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv17/a17.m3u8
+#EXTINF:0,BUNDARAN TUDUNG SAJI
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv16/a16.m3u8
+#EXTINF:0,SIMPANG 4 PASAR BARU
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
+#EXTINF:0,SMPN 1 ARSEL
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv2/a2.m3u8
+#EXTINF:0,GKE IMANUEL
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv3/a3.m3u8
+#EXTINF:0,SIMPANG PERKIM
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv8/a8.m3u8
+#EXTINF:0,SIMPANG 4 PDAM
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv10/a10.m3u8
+#EXTINF:0,DEPAN PERPUS
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv7/a7.m3u8
+#EXTINF:0,SIMPANG 3 RSI
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv6/a6.m3u8
+#EXTINF:0,SIMPANG 3 BANK KALTENG
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8
+#EXTINF:0,BUNDARAN PANCASILA
+https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv9/a9.m3u8
+#EXTINF:0,ALUN-ALUN
+https://stream.pemalangkab.go.id/alunalun/alunalun1.m3u8
+#EXTINF:0,MASJID AGUNG
+https://stream.pemalangkab.go.id/masjidagung/masjid1.m3u8
+#EXTINF:0, GBK
+https://cctv.balitower.co.id/Gelora-017-700470_2/tracks-v1/mono.m3u8
+#EXTINF:0, GBK 2
+https://cctv.balitower.co.id/Gelora-017-700470_7/tracks-v1/mono.m3u8
+#EXTINF:0,PINTU AIR MANGGARAI
+https://cctv.balitower.co.id/Manggarai-Pintu-Air_1/tracks-v1/mono.m3u8
+#EXTINF:0,TOMANG
+https://cctv.balitower.co.id/Tomang-004-702108_2/tracks-v1/mono.m3u8
+#EXTINF:0,JATI PULO
+https://cctv.balitower.co.id/Jati-Pulo-001-702017_2/tracks-v1/mono.m3u8
+#EXTINF:0,SENAYAN
+https://cctv.balitower.co.id/Senayan-004-705087_2/tracks-v1/mono.m3u8
+#EXTINF:0,THAMRIN PANDANARAN
+https://livepantau.semarangkota.go.id/hls/414/301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_301.m3u8
+#EXTINF:0,KRANGGAN RT 1 RW 5
+https://livepantau.semarangkota.go.id/hls/1547/201/2024/f6ecdb7f-1621-4271-a523-1ec9b6da718d_201.m3u8
+#EXTINF:0,BANDARHARJO RT 10 RW 6
+https://livepantau.semarangkota.go.id/hls/9267/201/2024/78097ee8-4c82-4670-9068-2f72098ed49b_201.m3u8
+#EXTINF:0,PURWOSARI RT9 RW2
+https://livepantau.semarangkota.go.id/hls/9684/401/2024/b2208bdd-407c-4371-bb03-0a540be7b12a_401.m3u8
+#EXTINF:0,GABAHAN SEMARANG RT 7 RW 3
+https://livepantau.semarangkota.go.id/hls/1584/101/2024/d0f190e5-7e12-4189-8012-b2d667aa3849_101.m3u8
+#EXTINF:0,KI MANGUN SARKORO
+https://livepantau.semarangkota.go.id/hls/414/401/2024/8795266c-ebc3-4a95-8827-b82360403f0a_401.m3u8
+#EXTINF:0,TAWANG MAS RT 2 RW 8
+https://livepantau.semarangkota.go.id/hls/3092/1/2024/ee5b9f93-9639-4a6c-8884-8da5142aa509_1.m3u8
+#EXTINF:0,GEREJA BLENDUK
+https://livepantau.semarangkota.go.id/hls/10214/101/2024/eacd07af-d665-4d5d-a1fc-128d0d7d5ae1_101.m3u8
+#EXTINF:0,BOJONG SALAMAN RT3 RW5
+https://livepantau.semarangkota.go.id/hls/2558/1/2024/cb99c7ef-28a9-491e-a87e-c8e339b51856_1.m3u8
+#EXTINF:0,BOJONG SALAMAN RT3 RW5
+https://livepantau.semarangkota.go.id/hls/4977/1/2024/392cb8be-d3b2-40b0-9ea7-18fab263b468_1.m3u8
+#EXTINF:0,SRI GUNTING 1
+https://livepantau.semarangkota.go.id/hls/10210/101/2024/f8a067be-1b8f-4aae-8686-fa130861aa61_101.m3u8
+#EXTINF:0,JRAKAH
+https://livepantau.semarangkota.go.id/hls/414/2701/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2701.m3u8
+#EXTINF:0,PETERONGAN
+https://livepantau.semarangkota.go.id/hls/414/2201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2201.m3u8
+#EXTINF:0,MILO
+https://livepantau.semarangkota.go.id/hls/414/601/2024/8795266c-ebc3-4a95-8827-b82360403f0a_601.m3u8
+#EXTINF:0,BANGKONG
+https://livepantau.semarangkota.go.id/hls/414/501/2024/8795266c-ebc3-4a95-8827-b82360403f0a_501.m3u8
+#EXTINF:0,ST PONCOL
+https://livepantau.semarangkota.go.id/hls/414/3701/2024/8795266c-ebc3-4a95-8827-b82360403f0a_3701.m3u8
+#EXTINF:0,SIMPANG 5
+https://livepantau.semarangkota.go.id/hls/414/4101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4101.m3u8
+#EXTINF:0,PASAR KARANGAYU
+https://livepantau.semarangkota.go.id/hls/414/3201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_3201.m3u8
+#EXTINF:0,MUSEUM KOTA LAMA
+https://livepantau.semarangkota.go.id/hls/10239/301/2024/dba465c8-dcc4-4cc1-a10f-760f0dcacb32_301.m3u8
+#EXTINF:0,SAMPING OUDETRAP
+https://livepantau.semarangkota.go.id/hls/10212/101/2024/971e7977-94d5-4d1c-9466-26f011043e6e_101.m3u8
+#EXTINF:0,PAHLAWAN 01
+https://livepantau.semarangkota.go.id/hls/10225/101/2024/b9b7a4f3-4fa7-436f-b938-36b1363aa6a4_101.m3u8
+#EXTINF:0,POLDA JATENG
+https://livepantau.semarangkota.go.id/hls/414/1001/2024/8795266c-ebc3-4a95-8827-b82360403f0a_1001.m3u8
+#EXTINF:0,BUNDARAN MADUKORO
+https://livepantau.semarangkota.go.id/hls/414/4801/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4801.m3u8
+#EXTINF:0,FLYOVER JATINGALEH
+https://livepantau.semarangkota.go.id/hls/414/5701/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5701.m3u8
+#EXTINF:0,BUKIT SARI
+https://livepantau.semarangkota.go.id/hls/414/5801/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5801.m3u8
+#EXTINF:0,PATUNG DIPONEGORO
+https://livepantau.semarangkota.go.id/hls/414/5901/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5901.m3u8
+#EXTINF:0,EXIT TOL SRONDOL
+https://livepantau.semarangkota.go.id/hls/414/6001/2024/8795266c-ebc3-4a95-8827-b82360403f0a_6001.m3u8
+#EXTINF:0,PASAR KAMBING
+https://livepantau.semarangkota.go.id/hls/414/2901/2024/8795266c-ebc3-4a95-8827-b82360403f0a_2901.m3u8
+#EXTINF:0,BALAI KOTA
+https://livepantau.semarangkota.go.id/hls/414/3501/2024/8795266c-ebc3-4a95-8827-b82360403f0a_3501.m3u8
+#EXTINF:0,KALIWIRU
+https://livepantau.semarangkota.go.id/hls/414/4301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4301.m3u8
+#EXTINF:0,TUGU MUDA
+https://livepantau.semarangkota.go.id/hls/414/101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_101.m3u8
+#EXTINF:0,TENTREM MALL
+https://livepantau.semarangkota.go.id/hls/10279/101/2024/3a65aa28-e60d-4214-a6a4-0e5885367ce0_101.m3u8
+#EXTINF:0,HULU KALI BABON PC GADING
+https://livepantau.semarangkota.go.id/hls/10209/10701/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_10701.m3u8
+#EXTINF:0,SEMARANG INDAH
+https://livepantau.semarangkota.go.id/hls/10209/5901/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_5901.m3u8
+#EXTINF:0,GATEOUT BALAIKOTA
+https://livepantau.semarangkota.go.id/hls/10280/3/2024/2642f0e9-1909-422a-8419-715ab442a124_3.m3u8
+#EXTINF:0,FLYOVER KALIBANTENG
+https://livepantau.semarangkota.go.id/hls/414/1301/2024/8795266c-ebc3-4a95-8827-b82360403f0a_1301.m3u8
+#EXTINF:0,BUNDARAN DIPONEGORO
+https://livepantau.semarangkota.go.id/hls/414/4901/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4901.m3u8
+#EXTINF:0,SIMPANG 5  1
+https://livepantau.semarangkota.go.id/hls/414/4001/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4001.m3u8
+#EXTINF:0,DONBOSKO
+https://livepantau.semarangkota.go.id/hls/414/4201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4201.m3u8
+#EXTINF:0,KS KOLAM
+https://livepantau.semarangkota.go.id/hls/10209/1501/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_1501.m3u8
+#EXTINF:0,BULU DRAIM OUT
+https://livepantau.semarangkota.go.id/hls/10209/5601/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_5601.m3u8
+#EXTINF:0,IP DOME MADUKORO
+https://livepantau.semarangkota.go.id/hls/10209/5701/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_5701.m3u8
+#EXTINF:0,SEMARANG INDAH IN
+https://livepantau.semarangkota.go.id/hls/10209/5901/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_5901.m3u8
+#EXTINF:0,SEMARANG INDAH INDAH OUT
+https://livepantau.semarangkota.go.id/hls/10209/5801/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_5801.m3u8
+#EXTINF:0,MUKTIHARJO KOLAM
+https://livepantau.semarangkota.go.id/hls/10209/3301/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_3301.m3u8
+#EXTINF:0,BAWAH TOL KALIGAWE
+https://livepantau.semarangkota.go.id/hls/10209/5001/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_5001.m3u8
+#EXTINF:0,BAWAH TOL OUT
+https://livepantau.semarangkota.go.id/hls/10209/4901/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_4901.m3u8
+#EXTINF:0,JEMBATAN MBEROK
+https://livepantau.semarangkota.go.id/hls/10239/201/2024/dba465c8-dcc4-4cc1-a10f-760f0dcacb32_201.m3u8
+#EXTINF:0,JEMBATAN MBEROK
+https://livepantau.semarangkota.go.id/hls/10239/101/2024/dba465c8-dcc4-4cc1-a10f-760f0dcacb32_101.m3u8
+#EXTINF:0,KS OUT 2
+https://livepantau.semarangkota.go.id/hls/10209/1701/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_1701.m3u8
+#EXTINF:0,RUMAH POMAM
+https://livepantau.semarangkota.go.id/hls/10209/8901/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_8901.m3u8
+#EXTINF:0,EXIT TOL GAYAMSARI
+https://livepantau.semarangkota.go.id/hls/414/1801/2024/8795266c-ebc3-4a95-8827-b82360403f0a_1801.m3u8
+#EXTINF:0,SENDANG MULYO RT09
+https://livepantau.semarangkota.go.id/hls/5924/101/2024/09ca4e2c-5f57-41c1-ad92-84b010ef34b9_101.m3u8
+#EXTINF:0,KEDUNGMUNDU RT 10
+https://livepantau.semarangkota.go.id/hls/7107/201/2024/845098a5-c326-4079-9350-062545f3640a_201.m3u8
+#EXTINF:0,TEMBALANG RT 2 RW 13
+https://livepantau.semarangkota.go.id/hls/6602/101/2024/fb4e6cc2-8ae4-408e-beec-a36e27cd3169_101.m3u8
+#EXTINF:0,PENDRIKAN KIDUL RT2 RW 4
+https://livepantau.semarangkota.go.id/hls/1416/101/2024/3d471a56-47ec-433b-98e2-611419aefeef_101.m3u8
+#EXTINF:0,SEKARANG GN PATI RT 7 RW 4
+https://livepantau.semarangkota.go.id/hls/4506/301/2024/ae23ef7c-1469-4338-8682-2457e5fb0c8f_301.m3u8
+#EXTINF:0,BANGER OUT
+https://livepantau.semarangkota.go.id/hls/10209/2601/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_2601.m3u8
+#EXTINF:0,BANGER IN
+https://livepantau.semarangkota.go.id/hls/10209/2801/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_2801.m3u8
+#EXTINF:0,DEPAN APOTIK SUBUR SEHAT KLIPANG
+https://livepantau.semarangkota.go.id/hls/4509/201/2024/41b26f30-8c36-48e0-a71c-c52d01914c10_201.m3u8
+#EXTINF:0, DEPAN MARTABAK KLIPANG
+https://livepantau.semarangkota.go.id/hls/4509/401/2024/41b26f30-8c36-48e0-a71c-c52d01914c10_401.m3u8
+#EXTINF:0,BUNDARAN TULUS CAM 01
+https://livepantau.semarangkota.go.id/hls/5560/301/2024/80074dbf-0adb-45e6-be6b-2ced747648c9_301.m3u8
+#EXTINF:0,POJOK TULUS
+https://livepantau.semarangkota.go.id/hls/5560/101/2024/80074dbf-0adb-45e6-be6b-2ced747648c9_101.m3u8
+#EXTINF:0,PC GADING
+https://livepantau.semarangkota.go.id/hls/414/4501/2024/8795266c-ebc3-4a95-8827-b82360403f0a_4501.m3u8
+#EXTINF:0,SBN1
+https://livepantau.semarangkota.go.id/hls/10209/7301/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_7301.m3u8
+#EXTINF:0,SBN2
+https://livepantau.semarangkota.go.id/hls/10209/7601/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_7601.m3u8
+#EXTINF:0,PUCUNG
+https://livepantau.semarangkota.go.id/hls/8580/201/2024/0678c871-4a56-45d6-8a0d-0ab24ed7f809_201.m3u8
+#EXTINF:0,RUMAH SUSUN PLAMONGAN
+https://livepantau.semarangkota.go.id/hls/5003/201/2024/35c73181-653e-4aef-9037-0d816852d6da_201.m3u8
+#EXTINF:0,SAWAH BESAR IN
+https://livepantau.semarangkota.go.id/hls/10209/3101/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_3101.m3u8
+#EXTINF:0,GERBANG PEMUDA OUT
+https://livepantau.semarangkota.go.id/hls/10280/1/2024/2642f0e9-1909-422a-8419-715ab442a124_1.m3u8
+#EXTINF:0,PAHLAWAN PTS
+https://livepantau.semarangkota.go.id/hls/10226/101/2024/928096cf-1afb-4453-b0ac-3664aedb8402_101.m3u8
+#EXTINF:0,DPU SOETTA
+https://livepantau.semarangkota.go.id/hls/10245/201/2024/4f342efc-f056-40e1-9aec-de108871d218_201.m3u8
+#EXTINF:0,SIMPANG HANOMAN
+https://livepantau.semarangkota.go.id/hls/414/3101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_3101.m3u8
+#EXTINF:0,WONODRI RT 6 RW 5
+https://livepantau.semarangkota.go.id/hls/9911/101/2024/88b044b6-e5b0-477c-ac19-ad8ef59f3c14_101.m3u8
+#EXTINF:0,JANGLI RT8
+https://livepantau.semarangkota.go.id/hls/7292/301/2024/b2b0fc95-a474-43a2-8930-a3f49f469ca4_301.m3u8
+#EXTINF:0,PEDALANGAN BANYUMANIK RT3
+https://livepantau.semarangkota.go.id/hls/592/101/2024/1998d8ee-0c71-429d-8a71-0da37b94ef0d_101.m3u8
+#EXTINF:0,SIMPANG EXIT TOL KRAPYAK
+https://livepantau.semarangkota.go.id/hls/414/801/2024/8795266c-ebc3-4a95-8827-b82360403f0a_801.m3u8
+#EXTINF:0,PUSAT OLEH OLEH PANDANARAN
+https://livepantau.semarangkota.go.id/hls/414/5101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5101.m3u8
+#EXTINF:0,DISDUKCAPIK TEMBALANG
+https://livepantau.semarangkota.go.id/hls/10208/401/2024/95d54663-d9e1-445d-87d7-32eecf45b92a_401.m3u8
+#EXTINF:0,PAHLAWAN 02
+https://livepantau.semarangkota.go.id/hls/10227/101/2024/1d9b1963-3b3d-42db-b421-6d7b8873327f_101.m3u8
+#EXTINF:0,PASAR BANYUMANIK
+https://livepantau.semarangkota.go.id/hls/414/6201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_6201.m3u8
+#EXTINF:0,SIMPANG SUKUN
+https://livepantau.semarangkota.go.id/hls/414/6101/2024/8795266c-ebc3-4a95-8827-b82360403f0a_6101.m3u8
+#EXTINF:0,BULUSAN RT5 RW 2
+https://livepantau.semarangkota.go.id/hls/5523/301/2024/33db5ef4-0999-4611-882a-0d2e03c2862e_301.m3u8
+#EXTINF:0,GAJAHMUNGKUR RT 7 RW 4
+https://livepantau.semarangkota.go.id/hls/346/401/2024/454aef36-b53d-4bba-bfe4-6857335d7ac2_401.m3u8
+#EXTINF:0,BANYUMANIK RT 1 RW 1
+https://livepantau.semarangkota.go.id/hls/677/101/2024/f4573169-733e-4582-9f38-c8bb62d63aec_101.m3u8
+#EXTINF:0,SENDANG MULYO RT 1 RW 6
+https://livepantau.semarangkota.go.id/hls/3430/201/2024/6edc510a-e419-4a79-a692-f85a14d07846_201.m3u8
+#EXTINF:0,LAMPER KID RT6 RW 2
+https://livepantau.semarangkota.go.id/hls/2219/101/2024/01cad802-ed50-4e8e-adfa-ec2ff254fef4_101.m3u8
+#EXTINF:0,BRINGIN RT 3 RW 20
+https://livepantau.semarangkota.go.id/hls/10368/201/2024/b5686fba-e7b5-4e3d-8036-c729d35bc8dc_201.m3u8
+#EXTINF:0,INDRAPASTA IMAN BONJOL
+https://livepantau.semarangkota.go.id/hls/414/5201/2024/8795266c-ebc3-4a95-8827-b82360403f0a_5201.m3u8
+#EXTINF:0,DEPAN KARYADI
+https://livepantau.semarangkota.go.id/hls/414/901/2024/8795266c-ebc3-4a95-8827-b82360403f0a_901.m3u8
+#EXTINF:598,BRIDGE FOUNTAIN
+https://livepantau.semarangkota.go.id/hls/10209/7701/2024/d15a8e90-c7e2-4bbe-993e-81f388b110b9_7701.m3u8
