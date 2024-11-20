@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:26, TRANS 7
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:100, TRANS TV
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:36,FICOM CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:90, LEGO CHANNEL
+#EXTVLCOPT:network-caching=1000
+https://dpiajq84g19x0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-otgmpzd5gkcgk-ssai-prd/mhls?appId=2&feedId=1314-v57&auth-token=1213111&version=sv8.0&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:7317, Alita Battle Angel (2019) SUB INDO
+#EXTVLCOPT:network-caching=1000
+http://abf.filmbluray.id/lsx37ja
+#EXTINF:6553,Berbalas Kejam
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1z1w-0XOwquvmWsTFkAhkjKIoyGZ9FMPe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:5984,Ratu Ilmu Hitam
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:7536,Suzzanna: Bernapas Dalam Kubur
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:5715,Rumah Dara
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:4028,Rumah Kaliurang
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:4983,Suster Keramas
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:6872,The Doll 3
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:5082,The Returning
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:4661,Titisan.Setan.2.2021.1080p.AOD.WEB-DL.AAC.X264-SX
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Wengi Anak Mayit
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
