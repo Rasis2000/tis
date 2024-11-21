@@ -1,0 +1,166 @@
+#EXTM3U
+#EXTINF:0,Mekkah Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+#EXTINF:28,INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:0,TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:0,TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:0,NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:0,Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:0,Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:0,Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+#EXTINF:0,CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+#EXTINF:0,TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+#EXTINF:0,KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+#EXTINF:0,K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:0,My Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:0,RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+#EXTINF:0,METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+#EXTINF:0,BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:0,TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:0,Kompas Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:0,IDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h200/S4/mnf.m3u8
+#EXTINF:0,ELSHINTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+#EXTINF:28,FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+#EXTINF:28,MCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+#EXTINF:0,NAGASWARA POP
+#EXTVLCOPT:network-caching=1000
+https://live.nagaswarafm.com/nagaswarapop/stream
+#EXTINF:0,PERSADA FM
+#EXTVLCOPT:network-caching=1000
+http://c4.siar.us:8038/stream
+#EXTINF:0,RONGGOHADI FM
+#EXTVLCOPT:network-caching=1000
+https://c3.siar.us/proxy/ronggohadifm/stream
+#EXTINF:0,SIFM TUBAN
+#EXTVLCOPT:network-caching=1000
+http://i.klikhost.com:8184/stream
+#EXTINF:0,R2B REMBANG
+#EXTVLCOPT:network-caching=1000
+https://i.klikhost.com/8892/;
+#EXTINF:0,JOSS FM NGANJUK
+#EXTVLCOPT:network-caching=1000
+https://static-s7.xajist.com/sslstream/8198
+#EXTINF:0,SUARA GIRI FM
+#EXTVLCOPT:network-caching=1000
+http://streaming.girifm.com:8010/;stream
+#EXTINF:0,WIJAYA FM
+#EXTVLCOPT:network-caching=1000
+http://wijayafm.onlivestreaming.net:9880/103,50%20Wijayaaaaaaa
+#EXTINF:0,GAJAHMADA FM
+#EXTVLCOPT:network-caching=1000
+https://server.radioimeldafm.co.id/listen/gajahmadafm/gajahmadafm
+#EXTINF:0,IMELDA FM
+#EXTVLCOPT:network-caching=1000
+https://server.radioimeldafm.co.id:8030/imeldafm
+#EXTINF:0,SUARA JUWANA
+#EXTVLCOPT:network-caching=1000
+http://i.klikhost.com:9014/;stream.nsv
+#EXTINF:0,RADIO MENDHUT
+#EXTVLCOPT:network-caching=1000
+http://c4.siar.us:8790/stream
+#EXTINF:0,RADIO MUSIK INDONESIA
+#EXTVLCOPT:network-caching=1000
+https://stream-157.zeno.fm/av6xzace6ehvv?zs=abY0twdeTSid2Uxkz1GMJQ
+#EXTINF:0,RADIO CAMPUR SARI
+#EXTVLCOPT:network-caching=1000
+https://a8.siar.us/listen/campursari/stream
+#EXTINF:0,TEMBANG KENANGAN
+#EXTVLCOPT:network-caching=1000
+http://scg.streamingmurah.com:7777/;
+#EXTINF:0,MADU FM
+#EXTVLCOPT:network-caching=1000
+https://stream-153.zeno.fm/z1bs88ttrfhvv?zs=9oXtwZxiRoS51w0qOHHZwg
+#EXTINF:0,NITNUT RADIO
+#EXTVLCOPT:network-caching=1000
+http://103.179.56.26:8000/radio.aac
+#EXTINF:0,SUZANA FM
+#EXTVLCOPT:network-caching=1000
+http://streaming.suzanafm.com:8000/;stream.nsv
+#EXTINF:0,POP FM KUDUS
+#EXTVLCOPT:network-caching=1000
+https://r2.siar.us:8700/suarakudus
+#EXTINF:0,POP FM SEMARANG
+#EXTVLCOPT:network-caching=1000
+http://i.klikhost.com:9612/;
+#EXTINF:0,RDI JAKARTA
+#EXTVLCOPT:network-caching=1000
+http://202.147.199.99:8000/stream/1/
+#EXTINF:0,NAGASWARA DIGITAL
+#EXTVLCOPT:network-caching=1000
+https://live.nagaswarafm.com:8088/stream
+#EXTINF:0,NAGASWARA DANCE DHUT
+#EXTVLCOPT:network-caching=1000
+https://live.nagaswarafm.com/nagaswaradance/stream
