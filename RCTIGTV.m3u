@@ -1,0 +1,156 @@
+#EXTM3U
+#EXTINF:14,Welcome To DreamlyTV #EXTVLCOPT:network-caching=1000
+https://github.com/ZRTVChannel/DreamlyTV/raw/refs/heads/main/lv_0_20241008184003.ts
+#EXTINF:60,Mekkah Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+#EXTINF:28,RODJA TV (Dens TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+#EXTINF:30,MQTV
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:900,RCTI (R+ Old)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:network-caching=1000
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:910,GTV (Rcti+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:network-caching=1000
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:26,Trans 7
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:29,TransTV 
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:28,Indosiar (DensTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:28,SCTV (DensTV)
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:100,KBS World
+#EXTVLCOPT:network-caching=1000
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:28,K+ Plus
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?app_type=web&amp;userid=lite&amp;chname=K-PLUS_HD
+#EXTINF:60,Astro Awani
+#EXTVLCOPT:network-caching=1000
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:50,SBS TV
+#EXTVLCOPT:network-caching=1000
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:6,VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+#EXTVLCOPT:network-caching=1000
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:80,My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:75,ANTV (IndiHome TV)
+#EXTVLCOPT:network-caching=1000
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+#EXTINF:910,INews (Rcti+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:network-caching=1000
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:66,TVONE (IndiHome TV)
+#EXTVLCOPT:network-caching=1000
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:24,BTV
+#EXTVLCOPT:network-caching=1000
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:28,METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+#EXTINF:28,Kompas Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:24,BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:36,CNN Indonesia
+#EXTVLCOPT:network-caching=1000
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:26,CNBC Indonesia
+#EXTVLCOPT:network-caching=1000
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:24,IDTV
+#EXTVLCOPT:network-caching=1000
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:60,RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+#EXTINF:28,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:28,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:28,INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:26,TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:29,TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:28,K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:28,TV One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:15,ELSHINTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
