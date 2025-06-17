@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:190, Muslim TV ð#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://av-ch-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
+#EXTINF:119, HITS ð#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
+#EXTINF:60, Rock Action â#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
+#EXTINF:64, Warner TV ð#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+#EXTINF:60,ANTV â#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=lite&chname=antv
